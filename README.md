@@ -1,3 +1,5 @@
+# Crypto reports from @cryptokarl013
+
 ## Hi there 👋
 
 My name is CryptoKarl013, a white hacker and crypto detective.
@@ -7,8 +9,7 @@ My name is CryptoKarl013, a white hacker and crypto detective.
 
 
 ## Donations
-
-Donations to support this and future investigations are welcome at the following ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193.
+Donations to support this and future investigations are welcome at the following ETH address: **0x0206AfA1A71cc833b8ade7a94748b6638798F193**.
 
 ## Contacts
 * [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com)
