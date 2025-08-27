@@ -12,6 +12,7 @@ My name is CryptoKarl013, a white hacker and crypto detective.
 Donations to support this and future investigations are welcome at the following ETH address: `0x0206AfA1A71cc833b8ade7a94748b6638798F193`.
 
 ## Contacts
-* [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com)
-* [https://x.com/CryptoKarl013](https://x.com/CryptoKarl013)
-* [https://t.me/cryptoinvestigations013](https://t.me/cryptoinvestigations013)
+* [Mail: cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com)
+* [X.com: https://x.com/CryptoKarl013](https://x.com/CryptoKarl013)
+* [Telegram: https://t.me/cryptoinvestigations013](https://t.me/cryptoinvestigations013)
+* [Facebook: https://www.facebook.com/profile.php?id=61577352392394](https://www.facebook.com/profile.php?id=61577352392394)
