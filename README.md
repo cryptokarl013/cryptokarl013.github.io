@@ -1,4 +1,4 @@
-# Crypto reports from @cryptokarl013
+# Crypto Investigations by @cryptokarl013
 
 ## Hi there 👋
 
