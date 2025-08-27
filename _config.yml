@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-seo-tag
+
+title: crypto investigation by @cryptokarl013
+description: "crypto investigations and reports"
+author: "@cryptokarl013"
+logo: /assets/images/logo.png
+social:
+  name: GitHub
+  links:
+    - https://github.com/cryptokarl013
+
+include:
+  - "robots.txt"
