@@ -64,10 +64,6 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 * n0b0dy.eth and indifferent.eth, being "NFT whales," are managed by a single person or a coordinated group 
 * n0b0dy.eth and indifferent.eth are connected with crypto thefts including the switchere.com case 
 
-> [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.
-
-
 #### Related addresses
 0x6981fe4eb847c9060861c24b3a1463ebd8b3c785<br/>
 0x63312e37edcaacb21eb597323956d697821d9a49<br/>
@@ -80,3 +76,10 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3<br/>
 0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206<br/>
 0x0859b65a5696d17bcc49463df8d1e1797b7e2a4d
+
+> [!IMPORTANT]
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.com#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
+> The report's content is based on verifiable public information.
+
+## Images
+[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
