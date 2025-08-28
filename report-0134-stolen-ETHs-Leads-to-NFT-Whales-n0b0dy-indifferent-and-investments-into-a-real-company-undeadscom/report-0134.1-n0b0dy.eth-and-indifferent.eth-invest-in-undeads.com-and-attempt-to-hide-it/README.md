@@ -48,19 +48,19 @@ Until May 2025 n0b0dy actively promoted undeads.com.
 
 See below the **n0b0dy twitter profile** from the web archive.\
 The link: https://web.archive.org/web/20240702161235/https://x.com/nobody_vault
-![](../images/_n0b0dy_twitter.png)
+![](../images/n0b0dy_twitter.png)
 
 The Twitter profile [@nobody_vault](https://twitter.com/nobody_vault) is associated with the **n0b0dy.eth** account, according to ENS history.\
 The link: https://www.ensvolution.xyz/?name=n0b0dy.eth
-![](../images/_nobody_ens_history.png)
+![](../images/nobody_ens_history.png)
 
 On May 24, 2025, **n0b0dy** disassociated his Twitter account from their ENS profile and deleted all content related to undeads.com.
 The link: https://www.ensvolution.xyz/?name=n0b0dy.eth
-![](../images/_nobody_ens_history2.png)
+![](../images/nobody_ens_history2.png)
 
 In August 2025, the **n0b0dy.eth** Twitter account no longer mentions **undeads.com**.
 The link: https://twitter.com/nobody_vault
-![](../images/_n0b0dy_twitter2.png)
+![](../images/n0b0dy_twitter2.png)
 
 ### Conclusions
 * A legitimate company [Undeads.com](http://undeads.com) received more than $2 million in investments from **Indifferent.eth** and **N0b0dy.eth**
