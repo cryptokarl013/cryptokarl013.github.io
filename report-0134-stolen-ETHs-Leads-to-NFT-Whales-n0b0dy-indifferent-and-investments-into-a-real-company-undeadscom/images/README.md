@@ -80,3 +80,7 @@
 ![](_nobody_ens_history.png)
 
 ![](_nobody_ens_history2.png)
+
+![](_top_holders.png)
+
+![](_top_holders_relations.png)
