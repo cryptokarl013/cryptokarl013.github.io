@@ -58,7 +58,8 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 
 ![](../images/image33.png)
 
-**Conclusions:**
+
+### Conclusions
 
 * n0b0dy.eth and indifferent.eth, being "NFT whales," are managed by a single person or a coordinated group 
 * n0b0dy.eth and indifferent.eth are connected with crypto thefts including the switchere.com case 
@@ -67,7 +68,7 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 > For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.
 
 
-**Related addresses:**\
+#### Related addresses
 0x6981fe4eb847c9060861c24b3a1463ebd8b3c785<br/>
 0x63312e37edcaacb21eb597323956d697821d9a49<br/>
 0x01baea860c7661561c31b1f765cfe8e064ff6de6<br/>
