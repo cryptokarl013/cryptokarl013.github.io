@@ -21,7 +21,7 @@ crypto investments, indifferent.eth, n0b0dy.eth, NFT whales, [switchere.com](htt
 
 * A legitimate company [Undeads.com](http://undeads.com) received more than $2 million in investments from **Indifferent.eth** and **N0b0dy.eth**
 
-* * **n0b0dy.eth** and **indifferent.eth** tries to hide the information about funding into undeads.com
+* **n0b0dy.eth** and **indifferent.eth** tries to hide the information about funding into undeads.com
 
 ### Investments into undeads.com
 
@@ -41,6 +41,10 @@ The [CoinMarketCap profile for undeads.com]((https://coinmarketcap.com/currencie
 
 The link: [https://coinmarketcap.com/currencies/undeads-games/](https://coinmarketcap.com/currencies/undeads-games/) 
 ![](../images/image27.png)
+
+### Relashionship between n0b0dy.eth and undeads.eth
+On September 22, 2022, **n0b0dy** ('0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206') bought **undeads.eth** ENS name.
+Transaction hash: [https://etherscan.io/tx/0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef](https://etherscan.io/tx/0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef)
 
 ### Attempt n0b0dy to hide connection with undeads.com
 
