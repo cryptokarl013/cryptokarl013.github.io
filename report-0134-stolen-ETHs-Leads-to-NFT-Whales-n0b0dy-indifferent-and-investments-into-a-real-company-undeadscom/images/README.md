@@ -83,4 +83,6 @@
 
 ![](_top_holders.png)
 
+![](_top_holders_sum.png)
+
 ![](_top_holders_relations.png)
