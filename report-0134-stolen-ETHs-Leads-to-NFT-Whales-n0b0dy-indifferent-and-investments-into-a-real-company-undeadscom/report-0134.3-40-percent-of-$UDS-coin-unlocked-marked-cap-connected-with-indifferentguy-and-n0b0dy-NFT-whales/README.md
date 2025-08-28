@@ -17,7 +17,7 @@ indifferent.eth, undeads.eth, [undeads.com](http://undeads.com), Top 10 $UDS coi
 
 * **n0b0dy.eth** tries to hide the information about funding into [Undeads.com](http://undeads.com)
 
-* **undeads.com** hides official company information intentionally (_unclear legal jurisdiction, no public accounts of C-Level, empty LinkedIn in profiles__). 
+* **undeads.com** hides official company information intentionally (_unclear legal jurisdiction, no public accounts of C-Level, empty LinkedIn in profiles_). 
 
 ## Abstract
 * In August 2025, over $40 million of the unlocked market capitalization for the __$UDS__ coin is tied to two NFT whale investors, **indifferentguy** and **n0b0dy**. This represents $40%$ of the total unlocked supply.
