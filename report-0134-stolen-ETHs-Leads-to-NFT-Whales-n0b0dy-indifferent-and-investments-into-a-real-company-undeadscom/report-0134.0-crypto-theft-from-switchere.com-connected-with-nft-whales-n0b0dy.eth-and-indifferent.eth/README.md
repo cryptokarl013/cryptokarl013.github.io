@@ -52,6 +52,8 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 
 ![](../images/image11.png)
 
+### Possible other crypto thefts
+
 ⚡ One of the addresses 0x5a8af490848d43d74f9d848ec14a7319494ae020 has been implicated in other thefts. The link: [https://x.com/ElwoodFox4/status/1782344348153344139](https://x.com/ElwoodFox4/status/1782344348153344139).
 
 ![](../images/image33.png)
