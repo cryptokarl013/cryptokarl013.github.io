@@ -5,7 +5,7 @@
 My name is CryptoKarl013, a white hacker and crypto detective.
 
 ## Investigations:
-* [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)]([https://github.com/cryptokarl013/report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com/))
+* [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com)
 
 
 ## Donations
