@@ -1,7 +1,6 @@
 # Report #0134.0 Crypto theft from switchere.com connected with NFT Whales n0b0dy.eth and indifferent.eth
 
-
-> [! IMPORTANT]
+> [!IMPORTANT]
 > The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom).
 
 ## Keywords
@@ -48,8 +47,8 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 * [0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3](https://intel.arkm.com/explorer/address/0x08c904A02578ed95a46C25A8cC510CD6eD9F2ed3) (indifferent.eth, indifferentguy.eth, 23mln$ in Jun 2025) 
 * [0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206](https://intel.arkm.com/explorer/address/0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206) (n0b0dy.eth, kfox.eth, 2.3mln$ in Jun 2024) 
 
-> [! IMPORTANT]
-> The Breadcrumb report visualizes the connections between addresses: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
+**The Breadcrumb report visualizes the connections between addresses:**
+[https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 
 ![](../images/image11.png)
 
