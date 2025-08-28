@@ -73,16 +73,16 @@
 
 ![](image34.png)
 
-![](_n0b0dy_twitter.png)
+![](n0b0dy_twitter.png)
 
-![](_n0b0dy_twitter2.png)
+![](n0b0dy_twitter2.png)
 
-![](_nobody_ens_history.png)
+![](nobody_ens_history.png)
 
-![](_nobody_ens_history2.png)
+![](nobody_ens_history2.png)
 
-![](_top_holders.png)
+![](top_holders.png)
 
-![](_top_holders_sum.png)
+![](top_holders_sum.png)
 
-![](_top_holders_relations.png)
+![](top_holders_relations.png)
