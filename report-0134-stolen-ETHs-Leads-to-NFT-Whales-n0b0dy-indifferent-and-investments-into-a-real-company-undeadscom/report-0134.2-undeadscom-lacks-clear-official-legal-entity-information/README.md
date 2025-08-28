@@ -108,51 +108,5 @@ Here are the other individuals whose real identities have been disclosed:
 > For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://github.com/cryptokarl013). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
 
-
-* * * * * * * * * * * * * * * * * *
-
-## Related screenshots
-
-![](../images/image16.png)
-
-![](../images/image3.png)
-
-![](../images/image24.png)
-
-![](../images/image4.png)
-
-![](../images/image5.png)
-
-![](../images/image19.png)
-
-![](../images/image32.png)
-
-![](../images/image25.png)
-
-![](../images/image12.png)
-
-![](../images/image2.png)
-
-![](../images/image18.png)
-
-![](../images/image13.png)
-
-![](../images/image34.png)
-
-![](../images/image31.png)
-
-![](../images/image7.png)
-
-![](../images/image1.png)
-
-![](../images/image20.png)
-
-![](../images/image30.png)
-
-![](../images/image21.png)
-
-![](../images/image6.png)
-
-![](../images/image22.png)
-
-
+## Images
+[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information)
