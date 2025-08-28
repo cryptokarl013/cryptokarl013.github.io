@@ -45,6 +45,8 @@ The link: [https://coinmarketcap.com/currencies/undeads-games/](https://coinmark
 ### Relashionship between n0b0dy.eth and undeads.eth
 On September 22, 2022, **n0b0dy** ('0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206') bought **undeads.eth** ENS name.
 Transaction hash: [https://etherscan.io/tx/0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef](https://etherscan.io/tx/0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef)
+![](../images/undeads_ens.png)
+The link on breadcrumbs report: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c)
 
 ### Attempt n0b0dy to hide connection with undeads.com
 
