@@ -1,4 +1,4 @@
-# Report #0134.2 Undeads.com with 50mln UDS market cap lacks clear and official legal entity information
+# Report #0134.2 Undeads.com hides official legal entity information
 
 > [!NOTE]
 > _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between **Indifferent.eth** and **N0b0dy.eth** removed from **undeads.com crunchbase portal**. Refer to original screenshots or web archives._
