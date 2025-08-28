@@ -34,12 +34,12 @@ The breadcrumbs reports shows relations between **Top $UDS holders**, __Indiffer
 The links: 
 * only related wallets: [https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243](https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243)
 * full picture: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
-![](images/_top_holders_relations.png)
+![](../images/_top_holders_relations.png)
 
-![](images/_top_holders.png)
+![](../images/_top_holders.png)
 
 With around $50 million (>40%) of the unlocked $UDS market cap under the control of n0b0dy.eth and indifferentguy.eth, there's a risk that these individuals could destabilize the $UDS coin at any time.
-![](_top_holders_sum.png)
+![](../_top_holders_sum.png)
 
 ## Conclusions
 * A single individual or a coordinated group, operating under the pseudonyms **n0b0dy.eth** and **indifferentguy.eth**, controls roughly 40% of the unlocked market capitalization. This significant concentration of holdings is a major risk for the UDS token holder community.
