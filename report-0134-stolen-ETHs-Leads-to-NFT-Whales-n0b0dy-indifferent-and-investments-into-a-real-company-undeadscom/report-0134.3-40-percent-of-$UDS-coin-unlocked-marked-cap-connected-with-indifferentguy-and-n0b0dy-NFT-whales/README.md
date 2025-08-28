@@ -31,7 +31,9 @@ On June 23, 2025 **n0b0dy.eth** moved $UDS coins (~1.7mln$) to the address `0x6f
 On August 9, 2025 **indifferent.eth** moved his $UDS coins (~700K$) to the same address `0x6f2af87135fefbd60bc3b4478f0770640c125b6d`. 
 
 The breadcrumbs reports shows relations between **Top $UDS holders**, __Indifferent.eth__ and __N0b0dy.eth__.
-The link: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
+The links: 
+* only related wallets: [https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243](https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243)
+* full picture: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 ![](images/_top_holders_relations.png)
 
 ![](images/_top_holders.png)
