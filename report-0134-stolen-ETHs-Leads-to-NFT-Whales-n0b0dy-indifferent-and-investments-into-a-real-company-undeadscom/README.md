@@ -20,7 +20,6 @@ In May 2022, over 100 ETH were stolen from a hot wallet of the [switchere.com](h
 
 By 2025, these stolen funds were traced to NFT whales __Indifferent.eth__ and __N0b0dy.eth__, who hold assets worth over $25 million.
 
-
 ## Conclusions
 * **n0b0dy.eth** and **indifferent.eth** are connected with crypto thefts including the [switchere.com case](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth)
 
@@ -39,7 +38,6 @@ By 2025, these stolen funds were traced to NFT whales __Indifferent.eth__ and __
 ## Breadcrumb reports
 [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
 ![](images/image11.png)
-
 
 ## Images
 [All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information)
