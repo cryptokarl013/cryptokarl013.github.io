@@ -38,6 +38,9 @@ The links:
 
 ![](images/_top_holders.png)
 
+With around $50 million (>40%) of the unlocked $UDS market cap under the control of n0b0dy.eth and indifferentguy.eth, there's a risk that these individuals could destabilize the $UDS coin at any time.
+![](_top_holders_sum.png)
+
 ## Conclusions
 * A single individual or a coordinated group, operating under the pseudonyms **n0b0dy.eth** and **indifferentguy.eth**, controls roughly 40% of the unlocked market capitalization. This significant concentration of holdings is a major risk for the UDS token holder community.
 
