@@ -47,5 +47,5 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 
 The investigation is still underway...
 
->> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
 
