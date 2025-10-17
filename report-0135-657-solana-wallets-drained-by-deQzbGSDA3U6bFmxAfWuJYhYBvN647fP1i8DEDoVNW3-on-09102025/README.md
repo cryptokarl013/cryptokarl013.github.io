@@ -25,11 +25,11 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 * The full backup of the analytics PostgreSQL database can be downloaded [here](TBD) for your own investigation
 
 ## Analytics
-# Stats
+### Stats
 * average amount per compromised walllet is 33$, the max is #1,077.98
 ![](images/top_victims.png)
   
-# The attack was planned and started at midnight, the scenario of the attack is the same: 
+### The attack was planned and started at midnight, the scenario of the attack is the same: 
 * calling closeAccount function  to return all available rent SOL to the main victim wallet
 * drain all SOL coins and transfer them to a malicious wallet `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
 * remained SOL amount to <1$ on compromised accounts
