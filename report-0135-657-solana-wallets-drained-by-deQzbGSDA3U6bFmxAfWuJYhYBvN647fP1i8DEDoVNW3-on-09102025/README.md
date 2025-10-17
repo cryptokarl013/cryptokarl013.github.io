@@ -23,9 +23,9 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 ### Stats
 * 657 Solana wallets were drained from Oct 09, 2025 00:00  till Oct 09, 2025 17:40 (17 hours attack)
 * Only SOL coins were drained and transferred to the Solana wallet [deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3](https://solscan.io/account/deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3)
-* 669 drain transfers
+* 669 drain transfers (some wallets were drained twice)
 * Total amount of stolen coins 97.05 SOL (around $20,000)
-* average amount per compromised walllet is 33$, the max is #1,077.98
+* Average amount per compromised walllet is 33$, the max is #1,077.98
 ![](images/top_victims.png)
   
 ### The attack was planned and started at midnight, the scenario of the attack is the same: 
