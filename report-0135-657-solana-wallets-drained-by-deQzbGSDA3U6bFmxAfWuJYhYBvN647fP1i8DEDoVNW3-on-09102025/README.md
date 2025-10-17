@@ -39,8 +39,7 @@ select count(*), from_address from transaction_data where to_address = 'deQzbGSD
 ![](images/drained_twice.png)
 
 ### pump.fun smart contracts
-* 96% of all the compromised sent money to [pump.fun](https://pump.fun) smart contracts in their history, 94% to [Raydium DEX Wallet](https://raydium.io/) (DEX Wallet)
-<br>
+* 96% of all the compromised sent money to [pump.fun](https://pump.fun) smart contracts in their history, 94% to [Raydium DEX Wallet](https://raydium.io/)
 ```sql
 select COUNT(*), solname2, (100*COUNT(*)/655) as Percent
 from 
@@ -63,7 +62,7 @@ order by count(*) desc
 * The most used addresses:
   * 92% compromised wallets sent coins to `comp5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1` (*Raydium Authority V4*)
   * 86% to `5ZzbJ2mnKeaZKSiCaXGEpY1n7ZJvt33pcABbW8EQz6Dg` (*pump.fun tag1*)
-<br><code>
+```sql
 select COUNT(*), solname, to_address, (100*COUNT(*)/655) as Percent
 from 
 	(
@@ -80,7 +79,7 @@ where flow = 'out' and root <> 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3'
 group by solname, to_address, flow
 having count(*) > 1
 order by count(*) desc
-</code>
+```
 ![](images/top_used_addresses2.png)
 
 ## Conclusions
