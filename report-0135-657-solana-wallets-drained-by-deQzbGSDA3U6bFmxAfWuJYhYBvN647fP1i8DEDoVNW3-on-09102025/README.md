@@ -38,8 +38,7 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 
 ### pump.fun smart contracts
 * 96% of all the compromised sent money to [pump.fun](https://pump.fun) smart contracts in their history, 94% to [Raydium DEX Wallet](https://raydium.io/) (DEX Wallet)
-<br><code>
-select COUNT(*), solname2, (100*COUNT(*)/655) as Percent
+<br><code>select COUNT(*), solname2, (100*COUNT(*)/655) as Percent
 from 
 	(
 		select distinct 
