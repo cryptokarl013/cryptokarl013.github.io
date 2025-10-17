@@ -1,7 +1,7 @@
-# Crypto Report #0135 657 solana wallets were drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3 within one day on October 9, 2025
+# Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
 
 ## Keywords
-crypto theft, solana, pump.fun, raydium
+crypto theft, solana, pump.fun, raydium, `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
 
 ## Abstract
 On October 9, 2025 657 wallets were fully drained and all SOL coins were transferred to `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
