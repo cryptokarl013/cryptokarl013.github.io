@@ -34,7 +34,7 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 * drain all SOL coins and transfer them to a malicious wallet `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
 * remained SOL amount to <1$ on compromised accounts
 * 12 of 657 accounts where drained twice to drain remained SOL coins
- ```select count(*), from_address from transaction_data where to_address = 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' and root != 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' group by from_address order by count(*) desc ```
+ <code>select count(*), from_address from transaction_data where to_address = 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' and root != 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' group by from_address order by count(*) desc<code>
 ![](images/drained_twice.png)
 
 
