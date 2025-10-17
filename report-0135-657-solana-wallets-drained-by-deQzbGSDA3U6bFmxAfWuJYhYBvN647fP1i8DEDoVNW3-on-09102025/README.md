@@ -1,4 +1,4 @@
-# Crypto Report #0135 657 solana wallets were drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3 within one day on October 9, 2025
+<img width="538" height="598" alt="image" src="https://github.com/user-attachments/assets/a5050c43-38cd-4cf1-a19e-c08d6b54bf53" /># Crypto Report #0135 657 solana wallets were drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3 within one day on October 9, 2025
 
 ## Keywords
 crypto theft, Solana, pump.fun
@@ -37,15 +37,59 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
  <br><code>select count(*), from_address from transaction_data where to_address = 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' and root != 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3' group by from_address order by count(*) desc</code>
 ![](images/drained_twice.png)
 
+### pump.fun smart contracts
+* 96% of all the compromised sent money to [pump.fun](https://pump.fun) smart contracts in their history, 94% to [Raydium DEX Wallet](https://raydium.io/) (DEX Wallet)
+<br><code>
+select COUNT(*), solname2, (100*COUNT(*)/655) as Percent
+from 
+	(
+		select distinct 
+			root, 
+			from_address, 
+			COALESCE((select solname2 from address_solname where address = to_address limit 1), to_address) as solname2, 
+			action, 
+			flow 
+		from transaction_data
+	)s
+where flow = 'out' and root <> 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3'
+group by solname2, flow
+having count(*) > 1
+order by count(*) desc
+</code> 
+![](images/top_used_addresses.png)
 
-
+* The most used addresses:
+  * 92% compromised wallets sent coins to `comp5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1` (*Raydium Authority V4*)
+  * 86% to `5ZzbJ2mnKeaZKSiCaXGEpY1n7ZJvt33pcABbW8EQz6Dg` (*pump.fun tag1*)
+<br><code>
+select COUNT(*), solname, to_address, (100*COUNT(*)/655) as Percent
+from 
+	(
+		select distinct 
+			root, 
+			from_address, 
+			COALESCE((select solname from address_solname where address = to_address limit 1), to_address) as solname, 
+			to_address,
+			action, 
+			flow 
+		from transaction_data
+	)s
+where flow = 'out' and root <> 'deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3'
+group by solname, to_address, flow
+having count(*) > 1
+order by count(*) desc
+</code>
+![](images/top_used_addresses2.png)
 
 ## Conclusions
-* Private keys of victim wallets were compromised somehow, and there are direct transfers from wallet to wallet
+* Private keys of victim wallets were compromised, there are direct transfers from wallet to wallet without any DeFi
+* The private keys could be compromised on [pump.fun](https://pump.fun) or [Raydium DEX](https://raydium.io/)
 * *The best idea is to move tokens from compromised wallets.*
 * Check if your Solana wallet was compromised. Here the full list of victims. [Compromised wallets](compromised_wallets.txt)
 
-The investigation is still underway...
+*The investigation is still underway...*
+
+*any help from your side will be highly appreciated, just contact [https://x.com/cryptokarl013](https://x.com/cryptokarl013)*
 
 > [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
 
