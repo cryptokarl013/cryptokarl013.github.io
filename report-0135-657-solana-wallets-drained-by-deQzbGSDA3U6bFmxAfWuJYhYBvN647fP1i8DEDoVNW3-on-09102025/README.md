@@ -17,7 +17,7 @@ On October 9, 2025 657 wallets were fully drained and all SOL coins were transfe
 * Downloaded and uploaded into PostgreSQL the transaction history of 655 compromised wallets (3,782,452 transaction records in the table `transaction_data`)
 * Manual table `address_solname` contains Solana public names of most used addresses by compromised wallets
 ![](images/address_solname.png)
-* The full backup of the analytics PostgreSQL database can be downloaded [here](https://drive.google.com/file/d/1uCg8XzDGe0TYgl-6SUmUH11aL799xWz3/view?usp=sharing) for your own investigation
+* The full backup of the analytics PostgreSQL database can be downloaded [here](https://drive.google.com/file/d/1PP2_p3BYkCfnQovo4thrbRlkZnSlVfvd/view?usp=sharing) for your own investigation
 
 ## Analytics
 ### Stats
@@ -88,7 +88,7 @@ order by count(*) desc
 
 *The investigation is still underway...*
 
-*any help from your side will be highly appreciated, just contact [https://x.com/cryptokarl013](https://x.com/cryptokarl013)*
+*any help or information from your side will be highly appreciated, just contact [https://x.com/cryptokarl013](https://x.com/cryptokarl013)*
 
 > [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
 
