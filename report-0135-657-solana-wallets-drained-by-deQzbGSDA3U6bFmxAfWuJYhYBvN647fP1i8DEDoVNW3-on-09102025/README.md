@@ -1,4 +1,4 @@
-<img width="538" height="598" alt="image" src="https://github.com/user-attachments/assets/a5050c43-38cd-4cf1-a19e-c08d6b54bf53" /># Crypto Report #0135 657 solana wallets were drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3 within one day on October 9, 2025
+# Crypto Report #0135 657 solana wallets were drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3 within one day on October 9, 2025
 
 ## Keywords
 crypto theft, Solana, pump.fun
