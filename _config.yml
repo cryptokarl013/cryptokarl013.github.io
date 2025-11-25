@@ -4,7 +4,7 @@ plugins:
 
 remote_theme: pages-themes/cayman@v0.2.0
 title: crypto investigation by @cryptokarl013
-description: "[crypto investigations and reports by @cryptokarl013](https://cryptokarl013.github.io)"
+description: crypto investigations by @cryptokarl013
 author: "@cryptokarl013"
 logo: https://avatars.githubusercontent.com/u/212721571?s=400&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 show_downloads: false
@@ -16,6 +16,7 @@ social:
 
 include:
   - "robots.txt"
+
 
 
 
