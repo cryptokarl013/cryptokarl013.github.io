@@ -58,5 +58,7 @@ With around $50 million (>40%) of the unlocked $UDS market cap under the control
 
 
 > [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.com#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.io#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
+
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
