@@ -43,9 +43,13 @@ By 2025, these stolen funds were traced to NFT whales __Indifferent.eth__ and __
 ![](images/image11.png)
 
 > [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.com#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.io#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
 
 ## Images
 [All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
 
+
+*If you have additional information or insights, please reach out at [https://x.com/cryptokarl013](https://x.com/cryptokarl013)*
+
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
