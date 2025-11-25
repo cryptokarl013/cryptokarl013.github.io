@@ -105,7 +105,7 @@ Here are the other individuals whose real identities have been disclosed:
 ❗️It's certainly a pertinent question for investors and the public alike. A company like Undeads, boasting millions in investments and a significant market cap >$50mln for its coin, yet maintaining a high degree of public opacity, raises several red flags and questions about its operational model.
 
 > [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.com#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.io#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
 
 > [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
