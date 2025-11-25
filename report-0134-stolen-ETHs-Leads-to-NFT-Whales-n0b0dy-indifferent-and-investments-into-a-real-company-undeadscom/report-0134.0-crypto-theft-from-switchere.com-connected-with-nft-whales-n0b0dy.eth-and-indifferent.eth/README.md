@@ -78,8 +78,10 @@ All of these disclosed addresses are managed manually and crypto circulates arou
 0x0859b65a5696d17bcc49463df8d1e1797b7e2a4d
 
 > [!IMPORTANT]
-> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.com#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
+> For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.io#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
 
 ## Images
 [All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
+
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
