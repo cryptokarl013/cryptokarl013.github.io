@@ -37,7 +37,7 @@ According to Crunchbase, [Undeads.com](http://undeads.com) has only two listed i
 
 ![](../images/image26.png)
 
-The [CoinMarketCap profile for undeads.com]((https://coinmarketcap.com/currencies/undeads-games/)) lists **n0b0dy.eth** and **indifferent.eth** as investors.
+The [CoinMarketCap profile for undeads.com](https://coinmarketcap.com/currencies/undeads-games/) lists **n0b0dy.eth** and **indifferent.eth** as investors.
 
 The link: [https://coinmarketcap.com/currencies/undeads-games/](https://coinmarketcap.com/currencies/undeads-games/) 
 ![](../images/image27.png)
