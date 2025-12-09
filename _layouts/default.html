@@ -22,10 +22,43 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <nav>
+        <a href="/">cryptokarl013.github.io</a> <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/#investigations">Investigations</a></li>
+          <li><a href="/#contacts">Contact</a></li>
+        </ul>
+      </nav>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+
+    <style>
+      nav ul {
+        list-style-type: none; /* Removes bullet points */
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333; /* Dark background */
+      }
+      
+      nav li {
+        float: left; /* Makes links horizontal */
+      }
+      
+      nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none; /* Removes underline */
+      }
+      
+      nav li a:hover {
+        background-color: #111; /* Darker on hover */
+      }
+    </style>
   </body>
 </html>
