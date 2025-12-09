@@ -1,6 +1,7 @@
 ---
 title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain Investigations
 description: The official source for CryptoKarl013's detailed blockchain investigative reports.
+canonical_url: https://cryptokarl013.github.io
 ---
 # Crypto Investigations by @cryptokarl013
 
