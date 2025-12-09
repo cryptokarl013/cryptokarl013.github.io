@@ -1,12 +1,12 @@
 ---
 layout: default
 title: 650 Solana Wallets Compromised in Single-Day Attack
-description: Crypto Report 0135: In-depth analysis of the security breach where more than 650 Solana accounts were compromised and drained in a single, major attack on 10/9/2025
+description: Crypto Report 0135. In-depth analysis of the security breach where more than 650 Solana accounts were compromised and drained in a single, major attack on 10/9/2025
 ---
 # Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
 
 ## Keywords
-crypto theft, solana, pump.fun, raydium, `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
+crypto theft, crypto attack, solana wallets, pump.fun, raydium, `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
 
 ## Abstract
 On October 9, 2025 657 wallets were fully drained and all SOL coins were transferred to `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`
