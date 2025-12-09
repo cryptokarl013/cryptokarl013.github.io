@@ -92,5 +92,5 @@ order by count(*) desc
 
 *If you have additional information or insights, please reach out at [https://x.com/cryptokarl013](https://x.com/cryptokarl013)*
 
-> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io)
 
