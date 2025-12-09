@@ -1,8 +1,3 @@
----
-title: 650 Solana Wallets Compromised in Single-Day Attack
-description: Crypto Report #0135 Solana Wallets Drained by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3: Over 650 Accounts Hit in Single-Day Attack on October 9, 2025
----
-
 # Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
 
 ## Keywords
