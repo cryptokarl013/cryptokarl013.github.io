@@ -1,5 +1,5 @@
 ---
-title: CryptoKarl013 Official Reports: Crypto Theft, NFT Whales & Blockchain Investigations
+title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain Investigations
 description: The official source for CryptoKarl013's detailed blockchain investigative reports.
 ---
 # Crypto Investigations by @cryptokarl013
