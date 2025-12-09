@@ -1,5 +1,5 @@
 ---
-title: 40% of Unlocked $UDS Coin Market Cap Linked to NFT Whales indifferentguy.eth & n0b0dy.eth. Report 0134.3
+title: 40% of Unlocked $UDS Coin Market Cap Linked to NFT Whales indifferentguy & n0b0dy. Report 0134.3
 description: Crypto Report 0134.3. 40% of the $UDS coin unlocked market cap is connected to the wallets of NFT whales indifferentguy and n0b0dy, raising concerns.
 ---
 # Crypto Report #0134.3 40% of `$UDS` coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
