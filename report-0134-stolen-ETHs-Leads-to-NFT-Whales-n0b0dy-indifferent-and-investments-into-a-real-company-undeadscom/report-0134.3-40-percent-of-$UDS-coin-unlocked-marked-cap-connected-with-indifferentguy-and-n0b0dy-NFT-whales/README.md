@@ -1,7 +1,7 @@
 # Crypto Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
 
 > [!IMPORTANT]
-> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom).
+> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
 
 ## Keywords
 
@@ -9,7 +9,7 @@ indifferent.eth, undeads.eth, [undeads.com](http://undeads.com), Top 10 $UDS coi
 
 ## Statements from related investigations
 
-* **n0b0dy.eth** and **indifferent.eth** are connected with crypto thefts including the [switchere.com case](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth)
+* **n0b0dy.eth** and **indifferent.eth** are connected with crypto thefts including the [switchere.com case](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/)
 
 * **n0b0dy.eth** and **indifferent.eth** are managed by a single person or a coordinated group
 
@@ -45,7 +45,7 @@ With around $50 million (>40%) of the unlocked $UDS market cap under the control
 * A single individual or a coordinated group, operating under the pseudonyms **n0b0dy.eth** and **indifferentguy.eth**, controls roughly 40% of the unlocked market capitalization. This significant concentration of holdings is a major risk for the UDS token holder community.
 
 ## Images
-[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
+[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
 
 ## Related Wallets
 0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3<br/>
@@ -61,4 +61,4 @@ With around $50 million (>40%) of the unlocked $UDS market cap under the control
 > For any further clarification regarding the current investigation, please contact [@cryptokarl013](https://cryptokarl013.github.io#contacts). Any assistance that helps enrich the investigation would be greatly appreciated.\
 > The report's content is based on verifiable public information.
 
-> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io)
