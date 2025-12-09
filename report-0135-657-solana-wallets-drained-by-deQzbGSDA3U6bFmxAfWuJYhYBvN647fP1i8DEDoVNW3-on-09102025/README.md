@@ -1,12 +1,7 @@
 ---
-title: **Life Story Update 2020**
-description: >-
-  Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
-date: '2020-03-23T14:20:33.815Z'
-slug: /report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/
-cover: ./arjun2020.jpg
+title: 650 Solana Wallets Compromised in Single-Day Attack
+description: Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
 ---
-
 # Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
 
 ## Keywords
