@@ -4,7 +4,7 @@
 > _**Update July 10, 2025:** some information started being changed after publishing the report (links between **Indifferent.eth**, **N0b0dy.eth** and **undeads.com** removed **Crunchbase**; **n0b0dy** removed any information in twitter connected with **undeads.com**). Refer to original screenshots or web archives.
 
 > [! IMPORTANT]
-> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom).
+> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
 
 ## Keywords
 crypto investments, indifferent.eth, n0b0dy.eth, NFT whales, [switchere.com](http://switchere.com)
@@ -15,7 +15,7 @@ crypto investments, indifferent.eth, n0b0dy.eth, NFT whales, [switchere.com](htt
 
 * [**n0b0dy.eth**, **kfox.eth**, **indifferent.eth**, **indifferentguy.eth** are managed by a single individual or a coordinated group.](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/)
 
-* [**Undeads.com** hides official legal entity information](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information)
+* [**Undeads.com** hides official legal entity information](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/)
 
 ## Abstract
 
@@ -77,6 +77,6 @@ The link: https://twitter.com/nobody_vault
 > The report's content is based on verifiable public information.
 
 ## Images
-[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
+[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
 
-> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io)
