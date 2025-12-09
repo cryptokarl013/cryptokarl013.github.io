@@ -4,7 +4,7 @@
 > _**Update July 10, 2025:** some information started being changed after publishing the report. For example, links between **Indifferent.eth** and **N0b0dy.eth** removed from **undeads.com crunchbase portal**. Refer to original screenshots or web archives._
 
 > [!IMPORTANT]
-> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom).
+> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
 
 ## Keywords
 cryptotheft, indifferent.eth, n0b0dy.eth, NFT whales, [undeads.com](http://undeads.com), Sezual PTE. LTD., Undeads Interactive Limited, Grant Haseley, Leo Kahn
@@ -109,7 +109,7 @@ Here are the other individuals whose real identities have been disclosed:
 > The report's content is based on verifiable public information.
 
 ## Images
-[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images)
+[All images and screenshots](https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
 
-> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io/)
+> [Other investigations by @cryptokarl013](https://cryptokarl013.github.io)
 
