@@ -21,7 +21,6 @@ canonical_url: https://cryptokarl013.github.io
            </div>
        </div>
 
-       <!-- Scroll Indicator -->
        <div class="scroll-indicator">
            <div class="scroll-mouse">
                <div class="scroll-wheel"></div>
@@ -29,7 +28,6 @@ canonical_url: https://cryptokarl013.github.io
        </div>
    </div>
 
-   <!-- Investigations Section -->
    <div class="content-section" id="investigations">
        <div class="section-card">
            <h2>Investigations</h2>
@@ -69,7 +67,6 @@ canonical_url: https://cryptokarl013.github.io
            </ul>
        </div>
 
-       <!-- Donations Section -->
        <div class="section-card">
            <h2>Donations</h2>
            <p class="intro-text">
@@ -82,7 +79,6 @@ canonical_url: https://cryptokarl013.github.io
            </div>
        </div>
 
-       <!-- Contacts Section -->
        <div class="section-card" id="contact">
            <h2>Contacts</h2>
            <div class="contact-grid">
