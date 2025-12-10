@@ -10,10 +10,7 @@ canonical_url: https://cryptokarl013.github.io
                <div>
                    <span class="badge">👋 White Hacker & Crypto Detective</span>
                </div>
-               <h1>
-                   Crypto Investigations<br>
-                   <span class="gradient-text">by @cryptokarl013</span>
-               </h1>
+               # Crypto Investigations by @cryptokarl013
                <p class="subtitle">
                    White hacker and crypto detective specializing in blockchain forensics,
                    NFT investigations, and cryptocurrency theft analysis
