@@ -1,5 +1,5 @@
-console.log('start');
-debug;
+(function(){
+    
 // Navbar scroll effect
 window.addEventListener('scroll', function() {
     const navbar = document.getElementById('navbar');
@@ -13,7 +13,6 @@ window.addEventListener('scroll', function() {
 // Active nav link and smooth scroll
 const navLinks = document.querySelectorAll('.nav-link');
 navLinks.forEach(link => {
-    console.log(link);
     link.addEventListener('click', function(e) {
         if (this.getAttribute('href').startsWith('#')) {
             e.preventDefault();
@@ -46,10 +45,11 @@ window.addEventListener('scroll', function() {
     });
 
     navLinks.forEach(link => {
-        console.log(current);
         link.classList.remove('active');
         if (link.getAttribute('href') === '#' + current) {
             link.classList.add('active');
         }
     });
 });
+})()
+
