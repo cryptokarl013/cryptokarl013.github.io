@@ -44,6 +44,7 @@
 
             navLinks.forEach(link => {
                 link.classList.remove('active');
+                console.writeline(current);
                 if (link.getAttribute('href') === '#' + current) {
                     link.classList.add('active');
                 }
