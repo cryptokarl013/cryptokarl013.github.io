@@ -4,6 +4,13 @@ description: The official source for CryptoKarl013's detailed blockchain investi
 canonical_url: https://cryptokarl013.github.io
 ---
 
+   <style>
+      .main-content {
+          background-color: rgba(0, 0, 0, 0); 
+          margin: 0px auto;
+      }
+   </style>
+   
    <div class="hero" id="home">
        <div class="hero-content">
            <div class="hero-text">
@@ -11,10 +18,10 @@ canonical_url: https://cryptokarl013.github.io
                    <span class="badge">👋 White Hacker & Crypto Detective</span>
                </div>
                # Crypto Investigations by @cryptokarl013
-               <p class="subtitle">
+               <div class="subtitle">
                    White hacker and crypto detective specializing in blockchain forensics,
                    NFT investigations, and cryptocurrency theft analysis
-               </p>
+               </div>
            </div>
        </div>
 
