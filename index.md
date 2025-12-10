@@ -35,7 +35,7 @@ canonical_url: https://cryptokarl013.github.io
     </div>
     <div class="content-section" id="investigations">
         <div class="section-card">
-            <h2>Investigations</h2>
+            <h2>Crypto Investigations</h2>
             <ul class="report-list">
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/" class="report-link">
