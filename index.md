@@ -13,6 +13,9 @@ canonical_url: https://cryptokarl013.github.io
 <div>
     <div class="hero" id="home">
         <div class="hero-content">
+            <div>
+                <img src="https://avatars.githubusercontent.com/u/212721571?s=400&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4"/>
+            </div>
             <div class="hero-text">
                 <div>
                     <span class="badge">👋 White Hacker & Crypto Detective</span>
@@ -40,22 +43,22 @@ canonical_url: https://cryptokarl013.github.io
                     </a>
                 </li>
                 <li class="report-item">
-                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/" class="sub-report-link">
+                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/" class="report-link">
                         Report #0134.0 Crypto theft from switchere.com connected with NFT Whales n0b0dy.eth and indifferent.eth
                     </a>
                 </li>
                 <li class="report-item">
-                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/" class="sub-report-link">
+                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/" class="report-link">
                         Report #0134.1 NFT Whales n0b0dy.eth and indifferent.eth invest into undeads.com and attempt to hide it
                     </a>
                 </li>
                 <li class="report-item">
-                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/" class="sub-report-link">
+                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/" class="report-link">
                         Report #0134.2 Undeads.com hides legal entity information
                     </a>
                 </li>
                 <li class="report-item">
-                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-$UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/" class="sub-report-link">
+                    <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-$UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/" class="report-link">
                         Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
                     </a>
                 </li>
