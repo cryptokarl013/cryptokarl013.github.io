@@ -13,8 +13,8 @@ canonical_url: https://cryptokarl013.github.io
 <div>
     <div class="hero" id="home">
         <div class="hero-content">
-            <div>
-                <img src="https://avatars.githubusercontent.com/u/212721571?s=400&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4"/>
+            <div class="hero-logo">
+                <img src="https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4"/>
             </div>
             <div class="hero-text">
                 <div>
