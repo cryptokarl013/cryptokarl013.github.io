@@ -466,3 +466,17 @@ h2 {
         grid-template-columns: 1fr;
     }
 }
+
+@media screen and (min-width: 64em) {
+    .main-content {
+        margin: 106px auto;
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .main-content {
+        padding:50px 4rem;
+    }
+.main-content {
+    background-color: white;    }
+}
