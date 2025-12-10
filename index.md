@@ -3,7 +3,14 @@ title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain In
 description: The official source for CryptoKarl013's detailed blockchain investigative reports.
 canonical_url: https://cryptokarl013.github.io
 ---
-<div style="background-color: rgba(0, 0, 0, 0); margin: 0px auto;">
+<style>
+    .main-content {
+        background-color: rgba(0, 0, 0, 0); 
+        margin: 0px auto;
+    }
+</style>
+
+<div>
     <div class="hero" id="home">
         <div class="hero-content">
             <div class="hero-text">
