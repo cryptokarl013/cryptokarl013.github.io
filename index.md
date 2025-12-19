@@ -1,6 +1,6 @@
 ---
-title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain Investigations
-description: Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics by white hat hacker @cryptokarl013. Official reports on crypto fraud and security breaches.
+title: CryptoKarl013 | White Hacker & Crypto Detective
+description: Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics.
 canonical_url: https://cryptokarl013.github.io/
 ---
 <div>
@@ -14,7 +14,7 @@ canonical_url: https://cryptokarl013.github.io/
                     <h1 class="badge">👋 CryptoKarl013 | White Hacker & Crypto Detective</h1>
                 </div>
                 <div class="subtitle">
-                    Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics by white hat hacker @cryptokarl013. Official reports on crypto fraud and security breaches.
+                    Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics. Official public reports on crypto fraud and security breaches.
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@ canonical_url: https://cryptokarl013.github.io/
     </div>
     <div class="content-section" id="investigations">
         <div class="section-card">
-            <h2>Crypto Investigations by @cryptokarl013</h2>
+            <h2>Crypto Investigations</h2>
             <ul class="report-list">
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/" class="report-link">
