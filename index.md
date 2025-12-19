@@ -20,10 +20,9 @@ description: The official source for CryptoKarl013's detailed blockchain investi
                     <span class="badge">👋 White Hacker & Crypto Detective</span>
                 </div>
                 # Crypto Investigations by @cryptokarl013
-                <div class="subtitle">
-                    White hacker and crypto detective specializing in blockchain forensics,
-                    NFT investigations, and cryptocurrency theft analysis
-                </div>
+                <h1 class="subtitle">
+                    white hacker and crypto detective specializing in blockchain forensics, NFT investigations, and cryptocurrency theft analysis
+                </h1>
             </div>
         </div>
         <div class="scroll-indicator">
@@ -34,7 +33,7 @@ description: The official source for CryptoKarl013's detailed blockchain investi
     </div>
     <div class="content-section" id="investigations">
         <div class="section-card">
-            <h2>Crypto Investigations</h2>
+            <h2>Crypto Investigations by @cryptokarl013</h2>
             <ul class="report-list">
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/" class="report-link">
