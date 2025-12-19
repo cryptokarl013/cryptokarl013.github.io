@@ -1,6 +1,6 @@
 ---
 title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain Investigations
-description: The official source for CryptoKarl013's detailed blockchain investigative reports.
+description: Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics by white hat hacker @cryptokarl013. Official reports on crypto fraud and security breaches.
 ---
 <div>
     <div class="hero" id="home">
@@ -12,9 +12,9 @@ description: The official source for CryptoKarl013's detailed blockchain investi
                 <div>
                     <h1 class="badge">👋 CryptoKarl013 | White Hacker & Crypto Detective</h1>
                 </div>
-                <h2 class="subtitle">
+                <div class="subtitle">
                     Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics by white hat hacker @cryptokarl013. Official reports on crypto fraud and security breaches.
-                </h2>
+                </div>
             </div>
         </div>
         <div class="scroll-indicator">
