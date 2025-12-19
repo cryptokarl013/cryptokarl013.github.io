@@ -38,32 +38,32 @@ description: The official source for CryptoKarl013's detailed blockchain investi
             <ul class="report-list">
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/" class="report-link">
-                        Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)
+                        Public Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)
                     </a>
                 </li>
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/" class="report-link">
-                        * Report #0134.0 Crypto theft from switchere.com connected with NFT Whales n0b0dy.eth and indifferent.eth
+                        Public Crypto Report #0134.0 Crypto theft from switchere.com connected with NFT Whales n0b0dy.eth and indifferent.eth
                     </a>
                 </li>
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/" class="report-link">
-                        * Report #0134.1 NFT Whales n0b0dy.eth and indifferent.eth invest into undeads.com and attempt to hide it
+                        Public Crypto Report #0134.1 NFT Whales n0b0dy.eth and indifferent.eth invest into undeads.com and attempt to hide it
                     </a>
                 </li>
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/" class="report-link">
-                        * Report #0134.2 Undeads.com hides legal entity information
+                        Public Crypto Report #0134.2 Undeads.com hides legal entity information
                     </a>
                 </li>
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-$UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/" class="report-link">
-                        * Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
+                        Public Crypto Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
                     </a>
                 </li>
                 <li class="report-item">
                     <a href="https://cryptokarl013.github.io/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/" class="report-link">
-                        Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
+                        Public Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
                     </a>
                 </li>
             </ul>
