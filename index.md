@@ -17,12 +17,11 @@ description: The official source for CryptoKarl013's detailed blockchain investi
             </div>
             <div class="hero-text">
                 <div>
-                    <span class="badge">👋 White Hacker & Crypto Detective</span>
+                    <h1 class="badge">👋 CryptoKarl013 | White Hacker & Crypto Detective</h1>
                 </div>
-                # Crypto Investigations by @cryptokarl013
-                <h1 class="subtitle">
-                    white hacker and crypto detective specializing in blockchain forensics, NFT investigations, and cryptocurrency theft analysis
-                </h1>
+                <h2 class="subtitle">
+                    Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics by white hat hacker @cryptokarl013. Official reports on crypto fraud and security breaches.
+                </h2>
             </div>
         </div>
         <div class="scroll-indicator">
