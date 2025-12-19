@@ -2,6 +2,7 @@
 title: CryptoKarl013 | White Hacker & Crypto Detective
 description: Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics.
 canonical_url: https://cryptokarl013.github.io/
+image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 ---
 <div>
     <div class="hero" id="home">
