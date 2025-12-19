@@ -2,18 +2,11 @@
 title: CryptoKarl013 Official Reports - Crypto Theft, NFT Whales & Blockchain Investigations
 description: The official source for CryptoKarl013's detailed blockchain investigative reports.
 ---
-<style>
-    .main-content {
-        background-color: rgba(0, 0, 0, 0); 
-        margin: 0px auto;
-    }
-</style>
-
 <div>
     <div class="hero" id="home">
         <div class="hero-content">
             <div class="hero-logo">
-                <img src="https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4"/>
+                <img src="https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4" alt="CryptoKarl013 - White Hacker and Crypto Detective Profile"/>
             </div>
             <div class="hero-text">
                 <div>
@@ -110,5 +103,13 @@ description: The official source for CryptoKarl013's detailed blockchain investi
                 </div>
             </div>
         </div>
+
+<style>
+    .main-content {
+        background-color: rgba(0, 0, 0, 0); 
+        margin: 0px auto;
+    }
+</style>
+
     </div>
 </div>
