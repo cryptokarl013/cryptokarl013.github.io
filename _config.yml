@@ -1,6 +1,8 @@
+url: "https://cryptokarl013.github.io"
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: pages-themes/cayman@v0.2.0
 author: cryptokarl013
@@ -14,6 +16,7 @@ social:
 
 include:
   - "robots.txt"
+
 
 
 
