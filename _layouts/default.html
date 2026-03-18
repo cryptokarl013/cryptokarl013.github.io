@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>{{ page.title }}</title>    
+    {% seo title=false %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script async src="/assets/js/custom.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C90F5LHLFF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-C90F5LHLFF');
+    </script>    
+  </head>
+  <body>
+    <div class="container">
+
+     <!-- Navigation -->
+     <nav id="navbar">
+         <div class="nav-container">
+             <a href="/">
+               <div class="logo">
+                   <div class="logo-icon">
+                       <div class="logo-bg"></div>
+                       <div class="logo-inner"></div>
+                       <div class="logo-letter">K</div>
+                   </div>
+                   <span class="logo-text">CryptoKarl<span>013</span></span>
+               </div>
+               </a>
+             <div class="nav-links">
+                 <a href="/" class="nav-link">Home</a>
+                 <a href="/#investigations" class="nav-link">Crypto Investigations</a>
+                 <a href="/#contact" class="nav-link">Contact</a>
+             </div>
+         </div>
+     </nav>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="footer-container">
+        <p>&copy; {{ site.time | date: '%Y' }} <a href="/">{{ site.name }}</a> — White Hacker &amp; Crypto Detective</p>
+        <nav class="footer-nav" aria-label="Footer navigation">
+          <a href="/">Home</a>
+          <a href="/#investigations">Investigations</a>
+          <a href="/#contact">Contact</a>
+        </nav>
+      </div>
+    </footer>
+
+    </div>
+  </body>
+</html>

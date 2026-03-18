@@ -1,0 +1,32 @@
+url: "https://cryptokarl013.xyz"
+name: CryptoKarl013
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+remote_theme: pages-themes/cayman@v0.2.0
+author: cryptokarl013
+logo: https://avatars.githubusercontent.com/u/212721571?s=400&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+show_downloads: false
+google_analytics: G-C90F5LHLFF
+social:
+  name: GitHub
+  links:
+    - https://github.com/cryptokarl013
+
+include:
+  - "robots.txt"
+  - "yandex_5d68f6d05da5caf2.html"
+
+description: "CryptoKarl013 - White Hacker & Crypto Detective. Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics reports."
+twitter:
+  username: CryptoKarl013
+
+
+
+
+
+
+
+
