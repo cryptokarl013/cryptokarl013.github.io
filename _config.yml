@@ -17,6 +17,7 @@ social:
 
 include:
   - "robots.txt"
+exclude:
   - "yandex_5d68f6d05da5caf2.html"
 
 description: "CryptoKarl013 - White Hacker & Crypto Detective. Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics reports."
