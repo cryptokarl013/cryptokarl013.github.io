@@ -1,13 +1,15 @@
 ---
 title: 40% of Unlocked $UDS Coin Market Cap Linked to NFT Whales indifferentguy & n0b0dy. Report 0134.3
 description: Crypto Report 0134.3. 40% of the $UDS coin unlocked market cap is connected to the wallets of NFT whales indifferentguy and n0b0dy, raising concerns.
+image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+date: 2025-08-28
 last_modified_at: 2026-03-18
 author: cryptokarl013
 ---
 # Crypto Report #0134.3 40% of UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
 
 > [!IMPORTANT]
-> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
+> The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
 
 ## Keywords
 
@@ -15,7 +17,7 @@ indifferent.eth, undeads.eth, [undeads.com](http://undeads.com), Top 10 $UDS coi
 
 ## Statements from related investigations
 
-* **n0b0dy.eth** and **indifferent.eth** are connected with crypto thefts including the [switchere.com case](/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/)
+* **n0b0dy.eth** and **indifferent.eth** are connected with crypto thefts including the [switchere.com case](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/)
 
 * **n0b0dy.eth** and **indifferent.eth** are managed by a single person or a coordinated group
 
@@ -40,18 +42,18 @@ The breadcrumbs reports shows relations between **Top $UDS holders**, __Indiffer
 The links: 
 * only related wallets: [https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243](https://www.breadcrumbs.app/reports/19153?share=54d7a1cc-b24c-4d66-bc1e-d26e0ad40243)
 * full picture: [https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c](https://www.breadcrumbs.app/reports/17067?share=df899b2c-9c8a-4ee2-9120-17c8c430c85c) 
-![](../images/top_holders_relations.png)
+![Breadcrumbs graph showing wallet relations between top $UDS coin holders, indifferent.eth, and n0b0dy.eth](../images/top_holders_relations.png)
 
-![](../images/top_holders.png)
+![List of top 10 $UDS coin holders including wallets connected to indifferent.eth and n0b0dy.eth](../images/top_holders.png)
 
 With around $50 million (>40%) of the unlocked $UDS market cap under the control of n0b0dy.eth and indifferentguy.eth, there's a risk that these individuals could destabilize the $UDS coin at any time.
-![](../images/top_holders_sum.png)
+![Summary of $UDS coin holdings showing n0b0dy.eth and indifferentguy.eth controlling over 40% of the unlocked market cap](../images/top_holders_sum.png)
 
 ## Conclusions
 * A single individual or a coordinated group, operating under the pseudonyms **n0b0dy.eth** and **indifferentguy.eth**, controls roughly 40% of the unlocked market capitalization. This significant concentration of holdings is a major risk for the UDS token holder community.
 
 ## Images
-[All images and screenshots](/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
+[All images and screenshots](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
 
 ## Related Wallets
 0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3<br/>
