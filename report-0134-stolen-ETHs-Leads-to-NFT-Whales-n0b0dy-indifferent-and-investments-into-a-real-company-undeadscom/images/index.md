@@ -3,7 +3,7 @@ title: Visual Evidence: Stolen ETH, NFT Whales, and Undeads.com
 description: View the complete set of visual evidence, including transaction charts and wallet analysis, supporting the claims in Report 0134 regarding stolen ETH, NFT whales, and Undeads.com.
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 date: 2025-08-28
-last_modified_at: 2026-03-18
+last_modified_at: 2026-04-08
 author: cryptokarl013
 ---
 
@@ -97,3 +97,7 @@ author: cryptokarl013
 ![](undeads_ens.png)
 
 ![](top_holders_relations.png)
+
+![](breadcrumbs_report_134.4.png)
+
+![](cryptex.net.png)

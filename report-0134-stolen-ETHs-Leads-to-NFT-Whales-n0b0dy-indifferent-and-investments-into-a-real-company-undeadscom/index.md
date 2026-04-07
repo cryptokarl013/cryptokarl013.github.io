@@ -3,7 +3,7 @@ title: Stolen ETH Traced to NFT Whales (n0b0dy, indifferentguy) and Undeads.com 
 description: Crypto Report 0134. A crypto investigation reveals 100 stolen ETH were traced to NFT whales n0b0dy & indifferentguy, who then invested millions into the Undeads.com company. Read the full report.
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 date: 2025-08-28
-last_modified_at: 2026-03-18
+last_modified_at: 2026-04-08
 author: cryptokarl013
 ---
 # Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap) 
@@ -23,6 +23,7 @@ The following is a series of smaller investigations that led to these significan
   * [Report #0134.1 NFT Whales n0b0dy.eth and indifferent.eth invest into undeads.com and attempt to hide it](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/)
   * [Report #0134.2 Undeads.com hides legal entity information](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/)
   * [Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-$UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/)
+  * [Report #0134.4 Undeads.com routed ~$1M through OFAC-sanctioned Cryptex.net while its investors n0b0dy.eth and indifferent.eth received funds from the same mixer](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.4-undeads-routed-1M-through-OFAC-sanctioned-cryptex-net/)
 
 ## Abstract
 In May 2022, over 100 ETH were stolen from a hot wallet of the [switchere.com](http://switchere.com) crypto exchange. 
