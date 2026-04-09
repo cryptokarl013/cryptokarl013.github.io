@@ -1,7 +1,7 @@
 ---
 title: Stolen ETH Traced to NFT Whales (n0b0dy, indifferentguy) and Undeads.com Investment
 description: Crypto Report 0134. A crypto investigation reveals 100 stolen ETH were traced to NFT whales n0b0dy & indifferentguy, who then invested millions into the Undeads.com company. Read the full report.
-image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+image: https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/report_0134_cover.png
 date: 2025-08-28
 last_modified_at: 2026-04-08
 author: cryptokarl013

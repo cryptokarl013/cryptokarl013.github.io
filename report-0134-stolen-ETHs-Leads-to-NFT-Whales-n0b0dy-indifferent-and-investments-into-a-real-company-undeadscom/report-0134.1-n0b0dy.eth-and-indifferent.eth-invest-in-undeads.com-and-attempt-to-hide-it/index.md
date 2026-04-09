@@ -1,7 +1,7 @@
 ---
 title: NFT Whales n0b0dy.eth & indifferent.eth Invest in Undeads.com & Attempt to Hide. Report 0134.1
 description: Crypto Report 0134.1. Analyzing how prominent NFT whales n0b0dy.eth and indifferent.eth invested in Undeads.com and the alleged attempts to conceal the financial connection.
-image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+image: https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/report_0134.1_cover.png
 date: 2025-08-28
 last_modified_at: 2026-03-18
 author: cryptokarl013

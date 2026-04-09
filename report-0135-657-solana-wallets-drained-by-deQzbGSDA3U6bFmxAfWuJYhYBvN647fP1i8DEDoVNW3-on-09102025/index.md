@@ -2,7 +2,7 @@
 title: 650 Solana Wallets Compromised by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3. Report 0135
 description: Crypto Report 0135. In-depth analysis of the security breach where more than 650 Solana accounts were compromised and drained in a single, major attack on 10/9/2025 by deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3
 keywords: solana wallets, crypto report, wallet drain, october 2025 attack, deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3
-image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+image: https://cryptokarl013.xyz/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report_0135_cover.png
 date: 2025-10-17
 last_modified_at: 2026-03-18
 author: cryptokarl013
