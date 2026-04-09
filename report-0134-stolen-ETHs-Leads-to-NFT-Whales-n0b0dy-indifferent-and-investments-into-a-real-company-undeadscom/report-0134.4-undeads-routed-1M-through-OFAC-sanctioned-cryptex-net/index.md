@@ -1,7 +1,7 @@
 ---
 title: Undeads.com routed ~$1M through OFAC-sanctioned Cryptex.net while its investors n0b0dy.eth and indifferent.eth received funds from the same mixer. Report 0134.4
 description: Crypto Report 0134.4. On-chain evidence shows Undeads.com sent ~$1M through OFAC-sanctioned Cryptex.net while investors n0b0dy.eth and indifferent.eth received funds from the same sanctioned mixer.
-image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
+image: https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/report_0134.4_cover.png
 date: 2026-04-07
 last_modified_at: 2026-04-08
 author: cryptokarl013
