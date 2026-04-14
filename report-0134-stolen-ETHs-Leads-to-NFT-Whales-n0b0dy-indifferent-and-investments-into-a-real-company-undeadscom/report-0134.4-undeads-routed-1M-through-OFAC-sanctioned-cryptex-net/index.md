@@ -3,13 +3,15 @@ title: Undeads.com routed ~$1M through OFAC-sanctioned Cryptex.net while its inv
 description: Crypto Report 0134.4. On-chain evidence shows Undeads.com sent ~$1M through OFAC-sanctioned Cryptex.net while investors n0b0dy.eth and indifferent.eth received funds from the same sanctioned mixer.
 image: https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/report_0134.4_cover.png
 date: 2026-04-07
-last_modified_at: 2026-04-08
+last_modified_at: 2026-04-14
 author: cryptokarl013
 ---
 # Crypto Report #0134.4 Undeads.com routed ~$1M through OFAC-sanctioned Cryptex.net while its investors n0b0dy.eth and indifferent.eth received funds from the same mixer
 
 > [!IMPORTANT]
 > The report is part of a big invesgation [Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales n0b0dy and indifferentguy (25mln$ worth) and a real company undeads.com (6mln$ investments and 50mln$ coin cap)](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/).
+
+> _**Update April 14, 2026:** a new address [0xc5fb927cb25ffec6360db345e0deb1de12e307b4](https://intel.arkm.com/explorer/address/0xc5fb927cb25ffec6360db345e0deb1de12e307b4) has been identified, connecting cryptnex.com (transfers of ~1.5M USDT), **n0b0dy.eth** (transfer of 210 ETH), **indifferent.eth** (transfers of 34.7 ETH), and a **Binance wallet** (transfer of ~300K USDT)._
 
 ## Keywords
 
@@ -85,6 +87,7 @@ The on-chain transaction data reveals multiple transactions between 11 wallets d
 | [0x5ed706e051605df8b58844572fa3cf16d2eda5ea](https://etherscan.io/address/0x5ed706e051605df8b58844572fa3cf16d2eda5ea) | Intermediary wallet |
 | [0x7b03a5d14332b4111ee839f8956f7efe31b69d7a](https://etherscan.io/address/0x7b03a5d14332b4111ee839f8956f7efe31b69d7a) | Intermediary wallet |
 | [0xc622a675cf2bccc88162e777a1f3e0a275f96f8f](https://etherscan.io/address/0xc622a675cf2bccc88162e777a1f3e0a275f96f8f) | Intermediary wallet |
+| [0xc5fb927cb25ffec6360db345e0deb1de12e307b4](https://intel.arkm.com/explorer/address/0xc5fb927cb25ffec6360db345e0deb1de12e307b4) | **New address** - connected to cryptnex.com (~1.5M USDT), n0b0dy.eth (210 ETH), indifferent.eth (34.7 ETH), Binance (~300K USDT) |
 
 > [!NOTE]
 > By May 2023, **n0b0dy.eth** and **indifferent.eth** had received funds from two Cryptex.net hot wallets: **~90K USDT** to **indifferent.eth** and **~23K ETH** to **n0b0dy.eth**. See the full [Breadcrumbs report](https://www.breadcrumbs.app/reports/39217?share=18e383c8-dbe7-4c72-8084-e2ec3c962d6e) for details.
@@ -189,6 +192,7 @@ The discovery that these wallets also used **Cryptex.net** - a platform sanction
 0x5ed706e051605df8b58844572fa3cf16d2eda5ea<br/>
 0x7b03a5d14332b4111ee839f8956f7efe31b69d7a<br/>
 0xc622a675cf2bccc88162e777a1f3e0a275f96f8f<br/>
+0xc5fb927cb25ffec6360db345e0deb1de12e307b4<br/>
 
 ## Images
 [All images and screenshots](https://cryptokarl013.xyz/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/images/)
