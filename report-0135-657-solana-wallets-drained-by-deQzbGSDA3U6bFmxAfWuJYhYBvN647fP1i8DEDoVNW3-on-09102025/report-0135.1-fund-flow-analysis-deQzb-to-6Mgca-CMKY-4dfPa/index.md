@@ -118,7 +118,7 @@ BigQuery confirms that **no reverse transfers** from `6Mgca`, `CMKY`, or `4dfPa`
 
 ---
 
-## Part 2 — Ongoing SPL token seizures via `SetAuthority` (April 2026)
+## Part 2 — Ongoing SPL token seizures via SetAuthority (April 2026)
 
 The full Arkham export of `deQzb` transfer history (676 transactions from 2025-10-09 to 2026-04-24) shows the attacker is still active. Unlike the October 2025 attack — which only drained native SOL — the April 2026 activity involves **SPL tokens** and a different on-chain primitive: **`SetAuthority`**.
 
