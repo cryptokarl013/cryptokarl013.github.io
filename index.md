@@ -4,7 +4,7 @@ description: Cryptocurrency theft investigations, NFT whale analysis, and blockc
 canonical_url: https://cryptokarl013.xyz/
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 date: 2025-12-09
-last_modified_at: 2026-04-08
+last_modified_at: 2026-04-24
 author: cryptokarl013
 ---
 <div>
@@ -73,6 +73,12 @@ author: cryptokarl013
                         Public Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
                     </a>
                     <span class="report-date">Published: 2025-10-17</span>
+                </li>
+                <li class="report-item">
+                    <a href="/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report-0135.1-fund-flow-analysis-deQzb-to-6Mgca-CMKY-4dfPa/" class="report-link">
+                        Public Crypto Report #0135.1 Attacker deQzb Follow-up: Laundering into Coinbase and Ongoing SPL Token Seizures
+                    </a>
+                    <span class="report-date">Published: 2026-04-15</span>
                 </li>
             </ul>
         </div>

@@ -4,7 +4,7 @@ description: Crypto Report 0135. In-depth analysis of the security breach where 
 keywords: solana wallets, crypto report, wallet drain, october 2025 attack, deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3
 image: https://cryptokarl013.xyz/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report_0135_cover.png
 date: 2025-10-17
-last_modified_at: 2026-03-18
+last_modified_at: 2026-04-24
 author: cryptokarl013
 ---
 # Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack on October 9, 2025
@@ -96,6 +96,10 @@ order by count(*) desc
 * The private keys were most likely compromised via malicious code on [pump.fun](https://pump.fun) or [Raydium DEX](https://raydium.io/)
 * **Recommendation: Immediately transfer all assets from compromised wallets to new, secure wallets**
 * Check if your wallet appears on the [list of compromised addresses](compromised_wallets.txt)
+
+## Related reports
+
+* [Report #0135.1 Attacker deQzb Follow-up: Laundering into Coinbase and Ongoing SPL Token Seizures](https://cryptokarl013.xyz/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report-0135.1-fund-flow-analysis-deQzb-to-6Mgca-CMKY-4dfPa/) — Identifies a Coinbase Personal Deposit Wallet (`4dfPa`) as the likely off-ramp via intermediary `6Mgca`, and uses the SPL `SetAuthority` signing rule to attribute three additional attacker-controlled wallets (`3ScNEE`, `HW66xmb`, `Futbm`) in April 2026
 
 *This investigation is ongoing...*
 
