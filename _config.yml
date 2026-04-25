@@ -1,9 +1,13 @@
 url: "https://cryptokarl013.xyz"
 name: CryptoKarl013
+title: "CryptoKarl013 — Independent Blockchain Forensics"
+description: "Independent on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Evidence-based public reports built from verifiable blockchain data."
+
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 remote_theme: pages-themes/cayman@v0.2.0
 author: cryptokarl013
@@ -14,20 +18,22 @@ social:
   name: GitHub
   links:
     - https://github.com/cryptokarl013
+    - https://x.com/CryptoKarl013
+
+twitter:
+  username: CryptoKarl013
+  card: summary_large_image
 
 include:
   - "robots.txt"
+
 exclude:
   - "yandex_5d68f6d05da5caf2.html"
+  - "report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom"
+  - "report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025"
 
-description: "CryptoKarl013 - White Hacker & Crypto Detective. Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics reports."
-twitter:
-  username: CryptoKarl013
-
-
-
-
-
-
-
-
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: cryptokarl013

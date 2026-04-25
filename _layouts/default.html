@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="index, follow">
+    {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% else %}<meta name="robots" content="index, follow">{% endif %}
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <title>{{ page.title }}</title>    
+    <title>{{ page.title }}</title>
     {% seo title=false %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -19,7 +19,7 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-C90F5LHLFF');
-    </script>    
+    </script>
   </head>
   <body>
     <div class="container">
@@ -39,8 +39,11 @@
                </a>
              <div class="nav-links">
                  <a href="/" class="nav-link">Home</a>
-                 <a href="/#investigations" class="nav-link">Crypto Investigations</a>
-                 <a href="/#contact" class="nav-link">Contact</a>
+                 <a href="/reports/" class="nav-link">Reports</a>
+                 <a href="/about/" class="nav-link">About</a>
+                 <a href="/methodology/" class="nav-link">Methodology</a>
+                 <a href="/corrections/" class="nav-link">Corrections</a>
+                 <a href="/contact/" class="nav-link">Contact</a>
              </div>
          </div>
      </nav>
@@ -51,7 +54,16 @@
 
     <footer class="site-footer" role="contentinfo">
       <div class="footer-container">
-        <p>&copy; {{ site.time | date: '%Y' }} <a href="/">{{ site.name }}</a> — White Hacker &amp; Crypto Detective</p>
+        <p>&copy; {{ site.time | date: '%Y' }} <a href="/">{{ site.name }}</a> — Independent Blockchain Forensics Research</p>
+        <p style="font-size: 0.85em; margin-top: 0.5em;">
+          <a href="/about/">About</a> ·
+          <a href="/methodology/">Methodology</a> ·
+          <a href="/editorial-standards/">Editorial Standards</a> ·
+          <a href="/corrections/">Corrections</a> ·
+          <a href="/disclaimer/">Disclaimer</a> ·
+          <a href="/privacy/">Privacy</a> ·
+          <a href="/contact/">Contact</a>
+        </p>
       </div>
     </footer>
 

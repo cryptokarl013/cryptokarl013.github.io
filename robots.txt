@@ -1,4 +1,16 @@
 User-agent: *
 Allow: /
+Disallow: /reports/0134/2-legal-entity/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /reports/0134/2-legal-entity/
+
+User-agent: Googlebot-Image
+Disallow: /reports/0134/2-legal-entity/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /reports/0134/2-legal-entity/
 
 Sitemap: https://cryptokarl013.xyz/sitemap.xml

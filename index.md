@@ -1,6 +1,6 @@
 ---
-title: CryptoKarl013 | White Hacker & Crypto Detective
-description: Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics.
+title: CryptoKarl013 — Independent Blockchain Forensics
+description: Independent on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Evidence-based public reports built from verifiable blockchain data.
 canonical_url: https://cryptokarl013.xyz/
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 date: 2025-12-09
@@ -11,138 +11,119 @@ author: cryptokarl013
     <div class="hero" id="home">
         <div class="hero-content">
             <div class="hero-logo">
-                <img src="https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4" alt="CryptoKarl013 - White Hacker and Crypto Detective Profile"/>
+                <img src="https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4" alt="CryptoKarl013 profile avatar" />
             </div>
             <div class="hero-text">
                 <div>
-                    <h1 class="badge">👋 CryptoKarl013 | White Hacker & Crypto Detective</h1>
+                    <h1 class="badge">CryptoKarl013 — Independent Blockchain Forensics</h1>
                 </div>
                 <div class="subtitle">
-                    Cryptocurrency theft investigations, NFT whale analysis, and blockchain forensics. Official public reports on crypto fraud and security breaches.
+                    Public on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Every claim in every report is sourced to verifiable blockchain data that any reader can reproduce.
                 </div>
-            </div>
-        </div>
-        <div class="scroll-indicator">
-            <div class="scroll-mouse">
-                <div class="scroll-wheel"></div>
             </div>
         </div>
     </div>
-    <div class="content-section" id="investigations">
+
+    <div class="content-section">
+
         <div class="section-card">
-            <h2>Crypto Investigations</h2>
+            <h2>What this site is</h2>
+            <p class="intro-text">
+                <strong>CryptoKarl013</strong> is an independent, pseudonymous blockchain-forensics researcher. This site publishes evidence-based on-chain investigations — drained wallets, laundering paths, sanctioned-entity interactions, NFT-whale wallet clustering — built exclusively from public blockchain data and public corporate filings.
+            </p>
+            <p class="intro-text">
+                The research is not affiliated with any exchange, law-enforcement agency, or commercial analytics vendor. Reports are published under a stated editorial policy with a documented methodology, a right-of-reply process for named subjects, and a transparent corrections policy.
+            </p>
+            <ul class="report-list" style="margin-top: 1em;">
+                <li class="report-item"><a href="/about/" class="report-link">About the author and verifiable identity</a></li>
+                <li class="report-item"><a href="/methodology/" class="report-link">Research methodology and data sources</a></li>
+                <li class="report-item"><a href="/editorial-standards/" class="report-link">Editorial standards</a></li>
+                <li class="report-item"><a href="/corrections/" class="report-link">Corrections and right of reply</a></li>
+                <li class="report-item"><a href="/disclaimer/" class="report-link">Legal disclaimer</a></li>
+                <li class="report-item"><a href="/privacy/" class="report-link">Privacy policy</a></li>
+            </ul>
+        </div>
+
+        <div class="section-card" id="investigations">
+            <h2>Published investigations</h2>
+            <p class="intro-text">
+                The complete catalogue lives on the <a href="/reports/">Reports index</a>. Selected below.
+            </p>
             <ul class="report-list">
                 <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/" class="report-link">
-                        Public Crypto Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap)
+                    <a href="/reports/0135/" class="report-link">
+                        Report #0135 — Solana wallets drained: 657 accounts hit in a single-day attack (October 9, 2025)
                     </a>
-                    <span class="report-date">Published: 2025-08-28</span>
+                    <span class="report-date">Published: 2025-10-17 · Updated: 2026-04-15</span>
                 </li>
                 <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/" class="report-link">
-                        Public Crypto Report #0134.0 Crypto theft from switchere.com connected with NFT Whales n0b0dy.eth and indifferent.eth
+                    <a href="/reports/0135/1-fund-flow/" class="report-link">
+                        Report #0135.1 — Attacker <code>deQzb</code> follow-up: identified Coinbase off-ramp and ongoing SPL seizures
                     </a>
-                    <span class="report-date">Published: 2025-08-28</span>
+                    <span class="report-date">Published: 2026-04-15 · Updated: 2026-04-24</span>
                 </li>
                 <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/" class="report-link">
-                        Public Crypto Report #0134.1 NFT Whales n0b0dy.eth and indifferent.eth invest into undeads.com and attempt to hide it
+                    <a href="/reports/0134/" class="report-link">
+                        Report #0134 — Stolen ETH traced to NFT whales (n0b0dy, indifferent) and an investment into undeads.com
                     </a>
-                    <span class="report-date">Published: 2025-08-28</span>
-                </li>
-                <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.2-undeadscom-lacks-clear-official-legal-entity-information/" class="report-link">
-                        Public Crypto Report #0134.2 Undeads.com hides legal entity information
-                    </a>
-                    <span class="report-date">Published: 2025-08-28</span>
-                </li>
-                <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-$UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/" class="report-link">
-                        Public Crypto Report #0134.3 40% of $UDS coin unlocked marked cap (>40mln$ in August 2025) connected with indifferentguy and n0b0dy NFT whales
-                    </a>
-                    <span class="report-date">Published: 2025-08-28</span>
-                </li>
-                <li class="report-item">
-                    <a href="/report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.4-undeads-routed-1M-through-OFAC-sanctioned-cryptex-net/" class="report-link">
-                        Public Crypto Report #0134.4 Undeads.com routed ~$1M through OFAC-sanctioned Cryptex.net while its investors n0b0dy.eth and indifferent.eth received funds from the same mixer
-                    </a>
-                    <span class="report-date">Published: 2026-04-07</span>
-                </li>
-                <li class="report-item">
-                    <a href="/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/" class="report-link">
-                        Public Crypto Report #0135 Solana Wallets Drained: Over 650 Accounts Hit in Single-Day Attack (October 9, 2025)
-                    </a>
-                    <span class="report-date">Published: 2025-10-17</span>
-                </li>
-                <li class="report-item">
-                    <a href="/report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report-0135.1-fund-flow-analysis-deQzb-to-6Mgca-CMKY-4dfPa/" class="report-link">
-                        Public Crypto Report #0135.1 Attacker deQzb Follow-up: Laundering into Coinbase and Ongoing SPL Token Seizures
-                    </a>
-                    <span class="report-date">Published: 2026-04-15</span>
+                    <span class="report-date">Published: 2025-08-28 · Updated: 2026-04-08</span>
                 </li>
             </ul>
         </div>
+
         <div class="section-card">
-            <h2>Donations</h2>
-            <p class="intro-text">
-                Donations to support my activities and future investigations are welcome at the following addresses:
-            </p>
-            <div class="donation-box">
-                <div class="eth-address">
-                    ETH: 0x913d978C2BEb68b8Deaa266e59894841d65cAbA4
-                </div>
-            </div>
-            <div class="donation-box">
-                <div class="eth-address">
-                    BTC: bc1qfe7gflhy76e45x52ajt9fhjlgw3nnndj04r9e4
-                </div>
-            </div>
+            <h2>How to read these reports</h2>
+            <ul class="report-list">
+                <li class="report-item">Every transaction hash, contract address, and filing reference is linkable and independently verifiable — reproduce the evidence, do not rely on this site's summary alone.</li>
+                <li class="report-item">Language is deliberate: "on-chain evidence shows" means verifiable, "is consistent with" means the pattern fits a class of behaviour but alternatives exist, "allegedly" means a third-party claim.</li>
+                <li class="report-item">No report is a criminal allegation against any named natural person. Pages that name natural persons (as they appear in public registries) are kept out of search indexes; they are reachable by direct link only.</li>
+                <li class="report-item">If you find an error, submit it via <a href="/corrections/">Corrections</a>. Subjects of reports are offered right of reply.</li>
+            </ul>
         </div>
-        <div class="section-card">
-            <h2>Mission</h2>
-            <p class="intro-text">
-                Crypto crime thrives in the dark. My mission is to drag it into the light.
-            </p>
-        </div>
+
         <div class="section-card" id="contact">
-            <h2>Contacts</h2>
+            <h2>Contact</h2>
+            <p class="intro-text">
+                For tips, corrections, right-of-reply requests, or collaboration — see the <a href="/contact/">Contact</a> page. Primary channel is email: <a href="mailto:cryptokarl013@gmail.com">cryptokarl013@gmail.com</a>.
+            </p>
             <div class="contact-grid">
                 <div class="contact-item">
-                    <div class="contact-icon">📧</div>
+                    <div class="contact-icon">@</div>
                     <div>
                         <span class="contact-label">Email</span>
                         <a href="mailto:cryptokarl013@gmail.com" class="contact-link">cryptokarl013@gmail.com</a>
                     </div>
                 </div>
                 <div class="contact-item">
-                    <div class="contact-icon">𝕏</div>
+                    <div class="contact-icon">X</div>
                     <div>
                         <span class="contact-label">X (Twitter)</span>
                         <a href="https://x.com/CryptoKarl013" class="contact-link" target="_blank" rel="noopener noreferrer">@CryptoKarl013</a>
                     </div>
                 </div>
                 <div class="contact-item">
-                    <div class="contact-icon">✈️</div>
+                    <div class="contact-icon">TG</div>
                     <div>
                         <span class="contact-label">Telegram</span>
                         <a href="https://t.me/cryptoinvestigations013" class="contact-link" target="_blank" rel="noopener noreferrer">@cryptoinvestigations013</a>
                     </div>
                 </div>
                 <div class="contact-item">
-                    <div class="contact-icon">👤</div>
+                    <div class="contact-icon">GH</div>
                     <div>
-                        <span class="contact-label">Facebook</span>
-                        <a href="https://www.facebook.com/profile.php?id=61577352392394" class="contact-link" target="_blank" rel="noopener noreferrer">View Profile</a>
+                        <span class="contact-label">GitHub</span>
+                        <a href="https://github.com/cryptokarl013" class="contact-link" target="_blank" rel="noopener noreferrer">@cryptokarl013</a>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 </div>
 
 <style>
     .main-content {
-        background-color: rgba(0, 0, 0, 0); 
+        background-color: rgba(0, 0, 0, 0);
         margin: 0px auto;
     }
     .report-date {
