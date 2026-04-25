@@ -1,5 +1,5 @@
 ---
-title: Investigation Methodology — CryptoKarl013
+title: Investigation Methodology - CryptoKarl013
 description: The step-by-step methodology used to produce on-chain investigations published on cryptokarl013.xyz, including data sources, attribution rules, and reproducibility standards.
 permalink: /methodology/
 canonical_url: https://cryptokarl013.xyz/methodology/
@@ -12,14 +12,14 @@ last_modified_at: 2026-04-24
 
 This page documents the exact process used to produce every investigation published on this site. Readers should be able to open any report, read the "Material of investigation" section, and reproduce the conclusions end-to-end from public data alone.
 
-## 1. Scope — what this site investigates
+## 1. Scope - what this site investigates
 
 Published reports focus on four categories:
 
-1. **Confirmed crypto thefts** — wallets drained by private-key compromise, exchange hacks, or exploit of a permissionless protocol, where the stolen funds can be traced on-chain.
-2. **Suspicious fund flows** — patterns of transfers (e.g., circular flows, sanctioned-platform passage, deliberate address churn) consistent with obfuscation or laundering.
-3. **NFT-whale wallet attribution** — grouping of multiple addresses under a single operational actor based on deterministic on-chain evidence.
-4. **On-chain context for public enforcement actions** — mapping the on-chain surface of entities designated by OFAC or seized by law enforcement.
+1. **Confirmed crypto thefts** - wallets drained by private-key compromise, exchange hacks, or exploit of a permissionless protocol, where the stolen funds can be traced on-chain.
+2. **Suspicious fund flows** - patterns of transfers (e.g., circular flows, sanctioned-platform passage, deliberate address churn) consistent with obfuscation or laundering.
+3. **NFT-whale wallet attribution** - grouping of multiple addresses under a single operational actor based on deterministic on-chain evidence.
+4. **On-chain context for public enforcement actions** - mapping the on-chain surface of entities designated by OFAC or seized by law enforcement.
 
 The site does **not** publish: speculation unsupported by on-chain evidence; private data obtained through non-public means; personal data (address, phone, family) beyond what is already in public corporate filings.
 
@@ -30,28 +30,28 @@ Every source listed here is public and independently queryable by any reader.
 ### Blockchain data
 - **Ethereum & EVM:** Etherscan, direct RPC nodes, `bigquery-public-data.crypto_ethereum`.
 - **Solana:** Solscan, Solana public RPC, `bigquery-public-data.crypto_solana_mainnet_us`.
-- **Address labels:** Arkham Intelligence (public labels only — labels are quoted verbatim and screenshots included to fix the state at report time), Etherscan tags, Solscan tags.
+- **Address labels:** Arkham Intelligence (public labels only - labels are quoted verbatim and screenshots included to fix the state at report time), Etherscan tags, Solscan tags.
 - **Fund-flow visualization:** Breadcrumbs.app shared reports (linkable and interactive).
 
 ### Regulatory & corporate data
 - US Treasury **OFAC** press releases and SDN list.
 - **UK Companies House** (find-and-update.company-information.service.gov.uk).
 - **Singapore ACRA** (via sgpbusiness.com and official ACRA BizFile).
-- **Crunchbase** (public investor/funding rounds) — where relevant.
-- **LinkedIn** public profile pages — for corporate headcount/jurisdiction claims only.
+- **Crunchbase** (public investor/funding rounds) - where relevant.
+- **LinkedIn** public profile pages - for corporate headcount/jurisdiction claims only.
 
 ### Web state preservation
-- **web.archive.org** — used to preserve the state of any external web page cited in a report. If a cited page later changes, the archived snapshot remains authoritative.
+- **web.archive.org** - used to preserve the state of any external web page cited in a report. If a cited page later changes, the archived snapshot remains authoritative.
 
 ## 3. Attribution rules
 
 Clustering multiple addresses under a single "actor" is one of the highest-error-risk steps in on-chain forensics. The following rules are applied.
 
 ### 3.1 Accepted evidence for co-control of two addresses
-- **Direct ENS / handle link** — two addresses reverse-resolve to ENS names that share a controlling wallet in the ENS contract history.
-- **Signer requirement of a restricted instruction** — e.g., SPL Token `SetAuthority` can only be signed by the current authority, so a successful authority transfer from A to B on-chain proves A held the key.
-- **Funder-of-funder chain with no commingling** — address A funds address B, and B shows no independent inflows from other actors during the relevant window.
-- **Public self-attestation** — the actor has, at some point, publicly claimed both addresses (e.g., on X, in a podcast, in a Crunchbase profile) — preserved via web.archive.org.
+- **Direct ENS / handle link** - two addresses reverse-resolve to ENS names that share a controlling wallet in the ENS contract history.
+- **Signer requirement of a restricted instruction** - e.g., SPL Token `SetAuthority` can only be signed by the current authority, so a successful authority transfer from A to B on-chain proves A held the key.
+- **Funder-of-funder chain with no commingling** - address A funds address B, and B shows no independent inflows from other actors during the relevant window.
+- **Public self-attestation** - the actor has, at some point, publicly claimed both addresses (e.g., on X, in a podcast, in a Crunchbase profile) - preserved via web.archive.org.
 
 ### 3.2 Rejected evidence for co-control
 - Mere temporal correlation ("both transacted in the same block").
@@ -78,11 +78,11 @@ The site avoids definitive claims of intent ("X is laundering money", "Y is a fr
 
 ## 5. Report lifecycle
 
-1. **Draft** — written against raw data; not published.
-2. **Reproducibility pass** — every transaction hash, address, and external link is re-fetched; any that fail are removed or replaced.
-3. **Right-of-reply outreach** — if the report names an individual or entity, they are contacted via the most public channel available (corporate contact form, X DM, registered email) prior to publication. Responses received during a **7-day window** before publication are included.
-4. **Publication** — report goes live with an ISO publication date in the front-matter.
-5. **Updates** — any factual change is logged in the report with an "Update [date]:" note; the original text is not silently edited. See [Corrections](/corrections/).
+1. **Draft** - written against raw data; not published.
+2. **Reproducibility pass** - every transaction hash, address, and external link is re-fetched; any that fail are removed or replaced.
+3. **Right-of-reply outreach** - if the report names an individual or entity, they are contacted via the most public channel available (corporate contact form, X DM, registered email) prior to publication. Responses received during a **7-day window** before publication are included.
+4. **Publication** - report goes live with an ISO publication date in the front-matter.
+5. **Updates** - any factual change is logged in the report with an "Update [date]:" note; the original text is not silently edited. See [Corrections](/corrections/).
 
 ## 6. Reproducibility standard
 

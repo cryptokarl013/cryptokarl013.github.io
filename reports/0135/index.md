@@ -1,5 +1,5 @@
 ---
-title: "Report #0135 — Solana Wallets Drained: 657 Accounts Hit in a Single-Day Attack (October 9, 2025)"
+title: "Report #0135 - Solana Wallets Drained: 657 Accounts Hit in a Single-Day Attack (October 9, 2025)"
 description: "On-chain analysis of an October 9, 2025 attack that drained 657 Solana wallets to the address deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3, with 96% of victims having prior pump.fun activity."
 permalink: /reports/0135/
 canonical_url: https://cryptokarl013.xyz/reports/0135/
@@ -11,7 +11,7 @@ redirect_from:
   - /report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/
 ---
 
-# Report #0135 — Solana Wallets Drained: 657 Accounts Hit in a Single-Day Attack (October 9, 2025)
+# Report #0135 - Solana Wallets Drained: 657 Accounts Hit in a Single-Day Attack (October 9, 2025)
 
 ## Abstract
 
@@ -24,14 +24,14 @@ On **October 9, 2025**, 657 Solana wallets were drained of their SOL holdings. A
 
 The direct wallet-to-wallet transfers without DeFi interactions are **consistent with** victim-wallet private-key compromise rather than a signature-phishing or approval-drainer attack. The operational recommendation is therefore that owners of affected wallets move remaining assets to fresh wallets before any further activity.
 
-A follow-up investigation is published as [Report #0135.1 — laundering path and ongoing SPL token seizures](/reports/0135/1-fund-flow/).
+A follow-up investigation is published as [Report #0135.1 - laundering path and ongoing SPL token seizures](/reports/0135/1-fund-flow/).
 
 ## Material of investigation
 
-- **Solana Explorer** (Solscan) — transaction verification.
-- **Transaction history of 655 compromised wallets** — 3,782,452 records imported to a local PostgreSQL table `transaction_data`.
-- **Manual labelling table** `address_solname` — Solana public names for the most frequently interacted-with counterparties of the compromised wallets.
-- **Database backup** — [Google Drive export](https://drive.google.com/file/d/1PP2_p3BYkCfnQovo4thrbRlkZnSlVfvd/view?usp=sharing) for independent reproduction.
+- **Solana Explorer** (Solscan) - transaction verification.
+- **Transaction history of 655 compromised wallets** - 3,782,452 records imported to a local PostgreSQL table `transaction_data`.
+- **Manual labelling table** `address_solname` - Solana public names for the most frequently interacted-with counterparties of the compromised wallets.
+- **Database backup** - [Google Drive export](https://drive.google.com/file/d/1PP2_p3BYkCfnQovo4thrbRlkZnSlVfvd/view?usp=sharing) for independent reproduction.
 
 ![Labelling table `address_solname` mapping Solana addresses to public names](/assets/reports/0135/address_solname.png)
 
@@ -49,7 +49,7 @@ The per-wallet scenario is consistent across all observed drains:
 
 1. **`closeAccount`** is invoked to return any available rent SOL held in token accounts back to the victim's main wallet.
 2. **All SOL is then transferred** to `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`, leaving the victim wallet with less than $1 of SOL residue.
-3. **12 of the 657 wallets were drained twice** — consistent with follow-up sweeps after fresh SOL arrived in the compromised wallet.
+3. **12 of the 657 wallets were drained twice** - consistent with follow-up sweeps after fresh SOL arrived in the compromised wallet.
 
 ```sql
 SELECT COUNT(*), from_address
@@ -99,7 +99,7 @@ ORDER BY COUNT(*) DESC;
 
 ![Detailed breakdown of top destination addresses](/assets/reports/0135/top_used_addresses2.png)
 
-The concentration of prior pump.fun / Raydium activity is consistent with — but does not prove — a compromise vector originating in malicious code on one of those platforms or a related browser extension / frontend supply-chain compromise. The report records the correlation; the causal claim is an open hypothesis.
+The concentration of prior pump.fun / Raydium activity is consistent with - but does not prove - a compromise vector originating in malicious code on one of those platforms or a related browser extension / frontend supply-chain compromise. The report records the correlation; the causal claim is an open hypothesis.
 
 ## Findings
 
@@ -111,11 +111,11 @@ At the evidence thresholds in [Editorial Standards § 1](/editorial-standards/#1
 
 ## Operational recommendation
 
-If your wallet appears on the [compromised-wallet list](/assets/reports/0135/compromised_wallets.txt) — or if you have interacted with pump.fun or Raydium and observe any unexplained outflow — **move all remaining assets to a freshly generated wallet** on a device that has not previously held the suspect key. The private key of a compromised wallet must be treated as permanently burned.
+If your wallet appears on the [compromised-wallet list](/assets/reports/0135/compromised_wallets.txt) - or if you have interacted with pump.fun or Raydium and observe any unexplained outflow - **move all remaining assets to a freshly generated wallet** on a device that has not previously held the suspect key. The private key of a compromised wallet must be treated as permanently burned.
 
 ## Follow-up
 
-- [**Report #0135.1**](/reports/0135/1-fund-flow/) — traces the attacker's laundering path to a Coinbase deposit wallet, documents three additional attacker-controlled wallets identified via SPL `SetAuthority` signer analysis, and catalogues ongoing April-2026 SPL-token seizures.
+- [**Report #0135.1**](/reports/0135/1-fund-flow/) - traces the attacker's laundering path to a Coinbase deposit wallet, documents three additional attacker-controlled wallets identified via SPL `SetAuthority` signer analysis, and catalogues ongoing April-2026 SPL-token seizures.
 
 ## Right of reply
 

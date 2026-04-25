@@ -1,5 +1,5 @@
 ---
-title: "Report #0134.1 — NFT Whales n0b0dy.eth and indifferent.eth Invested into undeads.com and Later Obscured the Connection"
+title: "Report #0134.1 - NFT Whales n0b0dy.eth and indifferent.eth Invested into undeads.com and Later Obscured the Connection"
 description: "On-chain and public-registry evidence that NFT whales n0b0dy.eth and indifferent.eth were the two listed investors in undeads.com's pre-seed and seed rounds, and that references to the connection were removed after publication."
 permalink: /reports/0134/1-undeads-investment/
 canonical_url: https://cryptokarl013.xyz/reports/0134/1-undeads-investment/
@@ -11,9 +11,9 @@ redirect_from:
   - /report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.1-n0b0dy.eth-and-indifferent.eth-invest-in-undeads.com-and-attempt-to-hide-it/
 ---
 
-# Report #0134.1 — NFT Whales `n0b0dy.eth` and `indifferent.eth` Invested into undeads.com and Later Obscured the Connection
+# Report #0134.1 - NFT Whales `n0b0dy.eth` and `indifferent.eth` Invested into undeads.com and Later Obscured the Connection
 
-> This report is part of the larger investigation [#0134 — Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
+> This report is part of the larger investigation [#0134 - Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
 
 > **Update 2025-07-10:** some references connecting the cluster to undeads.com were removed after initial publication. Specifically, investor links on the undeads.com Crunchbase profile were modified, and the X (Twitter) account associated with `n0b0dy.eth` removed content referencing undeads.com. Snapshots from web.archive.org preserve the pre-edit state and are cited inline below.
 
@@ -27,11 +27,11 @@ redirect_from:
 
 ## Material of investigation
 
-- **Crunchbase** — public investor and funding-round listings (profile snapshots preserved).
-- **CoinMarketCap** — public project profile.
-- **Etherscan** — ENS registration transaction.
-- **ENSvolution** — ENS handle history.
-- **web.archive.org** — snapshots of X and Crunchbase profiles pre- and post-edit.
+- **Crunchbase** - public investor and funding-round listings (profile snapshots preserved).
+- **CoinMarketCap** - public project profile.
+- **Etherscan** - ENS registration transaction.
+- **ENSvolution** - ENS handle history.
+- **web.archive.org** - snapshots of X and Crunchbase profiles pre- and post-edit.
 
 ## The Crunchbase record (pre-edit snapshot)
 
@@ -39,9 +39,9 @@ Per the Crunchbase profile at the time of first access, the only two investors l
 
 References used:
 
-- undeads.com Crunchbase profile — <https://www.crunchbase.com/organization/undeads-fze-llc>
-- `n0b0dy.eth` Crunchbase profile — <https://www.crunchbase.com/person/n0b0dy-eth-nobody-vault>
-- `indifferent.eth` Crunchbase profile — <https://www.crunchbase.com/person/indifferentguy-eth-indifferentguy>
+- undeads.com Crunchbase profile - <https://www.crunchbase.com/organization/undeads-fze-llc>
+- `n0b0dy.eth` Crunchbase profile - <https://www.crunchbase.com/person/n0b0dy-eth-nobody-vault>
+- `indifferent.eth` Crunchbase profile - <https://www.crunchbase.com/person/indifferentguy-eth-indifferentguy>
 
 ![Crunchbase profile of undeads.com showing n0b0dy.eth and indifferent.eth as the only two listed investors across pre-seed and seed rounds](/assets/reports/0134/image29.png)
 
@@ -55,7 +55,7 @@ The CoinMarketCap profile for undeads.com likewise listed the same two handles a
 
 ## The `undeads.eth` ENS registration
 
-On **22 September 2022**, the wallet `0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206` — associated with `n0b0dy.eth` via ENS resolution — registered the ENS name **`undeads.eth`**.
+On **22 September 2022**, the wallet `0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206` - associated with `n0b0dy.eth` via ENS resolution - registered the ENS name **`undeads.eth`**.
 
 - Transaction: [`0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef`](https://etherscan.io/tx/0x0e803db21bd5c3dfa5d44a1d3ba2f69ca072f64256ebd76b0752a7e6abd2faef)
 
@@ -93,7 +93,7 @@ As of August 2025, the `n0b0dy.eth`-associated X profile no longer references un
 
 ### Editorial note on the timing
 
-The edits occurred **after** the initial publication of this series. That temporal ordering is itself the finding here — the report does not claim to know the intent behind the edits. Readers can evaluate the ordering and decide.
+The edits occurred **after** the initial publication of this series. That temporal ordering is itself the finding here - the report does not claim to know the intent behind the edits. Readers can evaluate the ordering and decide.
 
 ## Alternative explanations considered
 
@@ -107,7 +107,7 @@ At the evidence thresholds in [Editorial Standards § 1](/editorial-standards/#1
 
 - **Verifiable:** At the time of the archived snapshots, the Crunchbase and CoinMarketCap profiles for undeads.com listed the two cluster handles as investors. The ENS registration of `undeads.eth` by the `n0b0dy.eth` wallet is on-chain.
 - **Verifiable:** After the initial publication of this series, these references were modified or removed; web.archive.org snapshots preserve the pre-edit state.
-- **Inferred:** The cluster — consistent with being under common operational control per [Report 0134.0](/reports/0134/0-switchere-theft/) — invested into undeads.com.
+- **Inferred:** The cluster - consistent with being under common operational control per [Report 0134.0](/reports/0134/0-switchere-theft/) - invested into undeads.com.
 
 ## Right of reply
 

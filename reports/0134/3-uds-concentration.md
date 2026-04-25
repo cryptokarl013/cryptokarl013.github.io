@@ -1,5 +1,5 @@
 ---
-title: "Report #0134.3 — 40% of Unlocked $UDS Market Cap Tied to Wallets Connected with n0b0dy.eth and indifferent.eth"
+title: "Report #0134.3 - 40% of Unlocked $UDS Market Cap Tied to Wallets Connected with n0b0dy.eth and indifferent.eth"
 description: "On-chain analysis shows that about 40% of the unlocked market capitalization of the $UDS token is held in wallets that receive $UDS directly from addresses associated with NFT whales n0b0dy.eth and indifferent.eth."
 permalink: /reports/0134/3-uds-concentration/
 canonical_url: https://cryptokarl013.xyz/reports/0134/3-uds-concentration/
@@ -12,9 +12,9 @@ redirect_from:
   - /report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.3-40-percent-of-%24UDS-coin-unlocked-marked-cap-connected-with-indifferentguy-and-n0b0dy-NFT-whales/
 ---
 
-# Report #0134.3 — ~40% of Unlocked $UDS Market Cap Tied to Wallets Connected with `n0b0dy.eth` and `indifferent.eth`
+# Report #0134.3 - ~40% of Unlocked $UDS Market Cap Tied to Wallets Connected with `n0b0dy.eth` and `indifferent.eth`
 
-> This report is part of the larger investigation [#0134 — Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
+> This report is part of the larger investigation [#0134 - Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
 
 ## Abstract
 
@@ -25,9 +25,9 @@ A single-actor (or coordinated-group) concentration of this size is **consistent
 
 ## Material of investigation
 
-- **Etherscan** — token-balance and transfer queries for $UDS
-- **Breadcrumbs.app** — wallet-flow visualization
-- **Addresses clustered in [Report 0134.0](/reports/0134/0-switchere-theft/)** — treated as a single actor for this analysis
+- **Etherscan** - token-balance and transfer queries for $UDS
+- **Breadcrumbs.app** - wallet-flow visualization
+- **Addresses clustered in [Report 0134.0](/reports/0134/0-switchere-theft/)** - treated as a single actor for this analysis
 
 ## On-chain transfers
 
@@ -47,14 +47,14 @@ Both handles independently funding the same downstream holder is consistent with
 
 ![Top 10 $UDS holders at measurement time, with wallets connected to indifferent.eth and n0b0dy.eth highlighted](/assets/reports/0134/top_holders.png)
 
-Summary of holdings — approximately 40% of the unlocked market cap attributable to the cluster at the measurement time:
+Summary of holdings - approximately 40% of the unlocked market cap attributable to the cluster at the measurement time:
 
 ![Summary showing cluster holding ~40% of unlocked $UDS market cap](/assets/reports/0134/top_holders_sum.png)
 
 ## Alternative explanations considered
 
 - **Public seed-round vesting.** Possible in principle, but the receive-set addresses are not token-vesting contracts; they are EOAs that received tokens in direct transfers.
-- **Independent large holders.** Ruled inconsistent — the receive-set addresses have no identified inflows of $UDS other than from the cluster.
+- **Independent large holders.** Ruled inconsistent - the receive-set addresses have no identified inflows of $UDS other than from the cluster.
 - **OTC counterparties of the project.** Possible; if so, the report's conclusion about the *concentration* still holds, because the concentration measures the proportion of unlocked supply in coordinated hands regardless of whether the underlying party is an investor or an intermediary.
 
 ## Findings

@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy — CryptoKarl013
+title: Privacy Policy - CryptoKarl013
 description: Privacy policy for cryptokarl013.xyz, describing what data is collected from visitors, how it is used, and what third-party services are involved.
 permalink: /privacy/
 canonical_url: https://cryptokarl013.xyz/privacy/
@@ -10,7 +10,7 @@ last_modified_at: 2026-04-24
 
 # Privacy Policy
 
-This site — **cryptokarl013.xyz** — is a static research publication. It does not maintain user accounts, comment systems, or server-side forms. The following explains what limited data is collected when you visit.
+This site - **cryptokarl013.xyz** - is a static research publication. It does not maintain user accounts, comment systems, or server-side forms. The following explains what limited data is collected when you visit.
 
 ## 1. Data collected by the site itself
 
@@ -41,7 +41,7 @@ If you prefer not to be measured:
 
 - Install a browser extension such as **Google Analytics Opt-out**, **uBlock Origin**, or **Privacy Badger**.
 - Use a browser with tracking protection enabled (Safari, Firefox strict mode).
-- Enable Do Not Track in your browser — the site respects DNT signals where GA supports it.
+- Enable Do Not Track in your browser - the site respects DNT signals where GA supports it.
 
 ## 4. Cookies
 
@@ -51,17 +51,17 @@ The site does not set first-party cookies beyond what the static theme template 
 
 Some reports embed or link to third-party services:
 
-- **Arkham Intelligence** (intel.arkm.com) — address labels
-- **Etherscan / Solscan** — block explorer links
-- **Breadcrumbs.app** — fund-flow reports (linked, not iframed)
-- **web.archive.org** — archived snapshots
+- **Arkham Intelligence** (intel.arkm.com) - address labels
+- **Etherscan / Solscan** - block explorer links
+- **Breadcrumbs.app** - fund-flow reports (linked, not iframed)
+- **web.archive.org** - archived snapshots
 - **External images from GitHub avatars / CDNs** (avatars.githubusercontent.com)
 
 When you click a link to any of these services, the service's own privacy policy applies. The site does not embed iframes that would load third-party content directly into the page without your click.
 
 ## 6. Email contact
 
-If you contact the author via **cryptokarl013@gmail.com**, your email is received by Google's Gmail service under Google's privacy terms. Emails are retained for as long as is reasonably useful for the correspondence (typically at least the statute-of-limitations period applicable to related reports). Emails are not published without your consent except as summarised — anonymously — for the purpose of recording that a correction request or right-of-reply was received.
+If you contact the author via **cryptokarl013@gmail.com**, your email is received by Google's Gmail service under Google's privacy terms. Emails are retained for as long as is reasonably useful for the correspondence (typically at least the statute-of-limitations period applicable to related reports). Emails are not published without your consent except as summarised - anonymously - for the purpose of recording that a correction request or right-of-reply was received.
 
 ## 7. Children
 

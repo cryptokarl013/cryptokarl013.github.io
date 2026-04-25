@@ -1,5 +1,5 @@
 ---
-title: "Report #0134.0 — Switchere.com ETH Outflow Traces On-Chain to NFT Whales n0b0dy.eth and indifferent.eth"
+title: "Report #0134.0 - Switchere.com ETH Outflow Traces On-Chain to NFT Whales n0b0dy.eth and indifferent.eth"
 description: "On-chain tracing of the May 2022 Switchere.com 100-ETH outflow through intermediary wallets into addresses associated with NFT whales n0b0dy.eth and indifferent.eth."
 permalink: /reports/0134/0-switchere-theft/
 canonical_url: https://cryptokarl013.xyz/reports/0134/0-switchere-theft/
@@ -11,17 +11,17 @@ redirect_from:
   - /report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom/report-0134.0-crypto-theft-from-switchere.com-connected-with-nft-whales-n0b0dy.eth-and-indifferent.eth/
 ---
 
-# Report #0134.0 — Switchere.com ETH Outflow Traces On-Chain to NFT Whales `n0b0dy.eth` and `indifferent.eth`
+# Report #0134.0 - Switchere.com ETH Outflow Traces On-Chain to NFT Whales `n0b0dy.eth` and `indifferent.eth`
 
-> This report is part of the larger investigation [#0134 — Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
+> This report is part of the larger investigation [#0134 - Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
 
 ## Abstract
 
 - On 27 May 2022, an Ethereum address identified as a **Switchere.com output hot wallet** was drained, with more than 100 ETH (and 13 other EVM-compatible tokens) transferred to a newly created "clean" wallet. Switchere.com subsequently rotated its hot wallets, consistent with an exchange response to a compromised wallet.
 - By 2025, on-chain tracing of those outflows leads through shared-funder addresses into wallets associated with NFT-whale ENS handles **`n0b0dy.eth`** and **`indifferent.eth`**.
-- The same shared-funder addresses connect four ENS handles — `n0b0dy.eth`, `indifferent.eth`, `indifferentguy.eth`, `kfox.eth` — in a way **consistent with** a single operator or coordinated group. See [Methodology § Attribution rules](/methodology/#3-attribution-rules) for the evidence threshold used.
+- The same shared-funder addresses connect four ENS handles - `n0b0dy.eth`, `indifferent.eth`, `indifferentguy.eth`, `kfox.eth` - in a way **consistent with** a single operator or coordinated group. See [Methodology § Attribution rules](/methodology/#3-attribution-rules) for the evidence threshold used.
 
-The evidence in this report is sufficient to justify treating the four handles as a single cluster for on-chain analysis purposes. It is **not** a statement that any named individual is criminally responsible for the Switchere.com event — see [Disclaimer](/disclaimer/).
+The evidence in this report is sufficient to justify treating the four handles as a single cluster for on-chain analysis purposes. It is **not** a statement that any named individual is criminally responsible for the Switchere.com event - see [Disclaimer](/disclaimer/).
 
 ## Material of investigation
 
@@ -44,8 +44,8 @@ The address `0x63312e37…` had been funded from [`0x01baea860c7661561c31b1f765c
 
 The same `0x01baea…` address had also funded the NFT-whale wallets associated with:
 
-- **`n0b0dy.eth`** — [`0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206`](https://etherscan.io/address/0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206)
-- **`indifferent.eth`** — [`0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3`](https://etherscan.io/address/0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3)
+- **`n0b0dy.eth`** - [`0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206`](https://etherscan.io/address/0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206)
+- **`indifferent.eth`** - [`0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3`](https://etherscan.io/address/0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3)
 
 ## Wallet cluster (consistent with common control)
 
@@ -54,11 +54,11 @@ The addresses below move funds in patterns consistent with common operational co
 | Address | Label / notes |
 |---|---|
 | [`0x01baea860c7661561c31b1f765cfe8e064ff6de6`](https://intel.arkm.com/explorer/address/0x01baea860c7661561c31b1f765cfe8e064ff6de6) | Labelled `nobody_vault` by Arkham |
-| [`0x5a8af490848d43d74f9d848ec14a7319494ae020`](https://intel.arkm.com/explorer/address/0x5a8af490848d43d74f9d848ec14a7319494ae020) | Referenced in third-party reporting of other thefts ([tweet](https://x.com/ElwoodFox4/status/1782344348153344139) — attributed evidence only) |
-| `0x46a93a8d4440df32d2b13c03baecad28d3df5fac` | — |
-| `0x31b13fa1c6e786854f62fd0d6cb41d9b64639cf8` | — |
+| [`0x5a8af490848d43d74f9d848ec14a7319494ae020`](https://intel.arkm.com/explorer/address/0x5a8af490848d43d74f9d848ec14a7319494ae020) | Referenced in third-party reporting of other thefts ([tweet](https://x.com/ElwoodFox4/status/1782344348153344139) - attributed evidence only) |
+| `0x46a93a8d4440df32d2b13c03baecad28d3df5fac` | - |
+| `0x31b13fa1c6e786854f62fd0d6cb41d9b64639cf8` | - |
 | `0x2194f90d32df768c9bfdbd3215d677eaa6fc3c4f` | ~$21M at Jan 2025 prices |
-| `0xa9615dfa74c79b38ee144169b5e87dfba43ed066` | — (see also [Report 0134.4](/reports/0134/4-cryptex-routing/) — appears as Cryptex.net hot wallet) |
+| `0xa9615dfa74c79b38ee144169b5e87dfba43ed066` | - (see also [Report 0134.4](/reports/0134/4-cryptex-routing/) - appears as Cryptex.net hot wallet) |
 | [`0x08c904a02578ed95a46c25a8cc510cd6ed9f2ed3`](https://intel.arkm.com/explorer/address/0x08c904A02578ed95a46C25A8cC510CD6eD9F2ed3) | `indifferent.eth`, `indifferentguy.eth`; ~$23M at June 2025 |
 | [`0x7eb413211a9de1cd2fe8b8bb6055636c43f7d206`](https://intel.arkm.com/explorer/address/0x7eb413211a9DE1cd2FE8b8Bb6055636c43F7d206) | `n0b0dy.eth`, `kfox.eth`; ~$2.3M at June 2024 |
 
@@ -70,7 +70,7 @@ The addresses below move funds in patterns consistent with common operational co
 
 ## Third-party signals (attributed evidence)
 
-One address in the cluster — `0x5a8af490848d43d74f9d848ec14a7319494ae020` — has been cited by third-party researchers in the context of other thefts. The strongest of those citations is [this thread](https://x.com/ElwoodFox4/status/1782344348153344139). Per the evidence threshold on this site, that is **attributed** evidence: the claim is repeated here with attribution, not independently adopted.
+One address in the cluster - `0x5a8af490848d43d74f9d848ec14a7319494ae020` - has been cited by third-party researchers in the context of other thefts. The strongest of those citations is [this thread](https://x.com/ElwoodFox4/status/1782344348153344139). Per the evidence threshold on this site, that is **attributed** evidence: the claim is repeated here with attribution, not independently adopted.
 
 ![Third-party X post linking 0x5a8af490… to thefts other than Switchere.com](/assets/reports/0134/image33.png)
 

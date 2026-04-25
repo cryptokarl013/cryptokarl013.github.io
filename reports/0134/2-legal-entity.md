@@ -1,5 +1,5 @@
 ---
-title: "Report #0134.2 — undeads.com: Inconsistent Public Information About Legal Operating Entity"
+title: "Report #0134.2 - undeads.com: Inconsistent Public Information About Legal Operating Entity"
 description: "Public corporate filings list three different jurisdictions for entities associated with undeads.com. This report documents the inconsistency from primary-registry sources."
 permalink: /reports/0134/2-legal-entity/
 canonical_url: https://cryptokarl013.xyz/reports/0134/2-legal-entity/
@@ -19,29 +19,29 @@ Per the editorial standard, such pages are kept out of search engine indexes
 while remaining reachable via direct link. See /editorial-standards/#3-treatment-of-named-natural-persons.
 -->
 
-# Report #0134.2 — undeads.com: Inconsistent Public Information About Legal Operating Entity
+# Report #0134.2 - undeads.com: Inconsistent Public Information About Legal Operating Entity
 
 > This page is not indexed by search engines. It is reachable via direct link. See the editorial rule for [treatment of named natural persons](/editorial-standards/#3-treatment-of-named-natural-persons).
 
-> This report is part of the larger investigation [#0134 — Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
+> This report is part of the larger investigation [#0134 - Stolen ETH traced to NFT whales and an investment into undeads.com](/reports/0134/).
 
 > **Update 2025-07-10:** some references connecting the investor cluster to undeads.com were modified or removed from the undeads.com Crunchbase portal after initial publication. Web.archive.org snapshots are cited below.
 
 ## Abstract
 
-Public corporate filings reference **three different jurisdictions** for entities associated with undeads.com — Singapore, the United Kingdom, and the United Arab Emirates — without a unifying disclosure on undeads.com's own website. This report documents the filings verbatim from primary-registry sources; it does **not** adjudicate which entity is the "true" operating company. The inconsistency itself is the finding.
+Public corporate filings reference **three different jurisdictions** for entities associated with undeads.com - Singapore, the United Kingdom, and the United Arab Emirates - without a unifying disclosure on undeads.com's own website. This report documents the filings verbatim from primary-registry sources; it does **not** adjudicate which entity is the "true" operating company. The inconsistency itself is the finding.
 
 This report names individuals that appear in these **public corporate registries** (UK Companies House, Singapore ACRA via sgpbusiness.com, Dun & Bradstreet). The naming is restricted to what appears in those filings. No private information is published. See [Editorial Standards § 3](/editorial-standards/#3-treatment-of-named-natural-persons).
 
 ## Material of investigation
 
-- **undeads.com legal / terms pages** — as published on the project's own domain
-- **@undeadscom** — project X profile
-- **sgpbusiness.com** — Singapore corporate registry mirror
-- **Dun & Bradstreet** — business directory
-- **find-and-update.company-information.service.gov.uk** — UK Companies House
-- **LinkedIn** — undeads.com company and individual profiles
-- **CoinMarketCap** — project profile for $UDS
+- **undeads.com legal / terms pages** - as published on the project's own domain
+- **@undeadscom** - project X profile
+- **sgpbusiness.com** - Singapore corporate registry mirror
+- **Dun & Bradstreet** - business directory
+- **find-and-update.company-information.service.gov.uk** - UK Companies House
+- **LinkedIn** - undeads.com company and individual profiles
+- **CoinMarketCap** - project profile for $UDS
 
 ## Entity references on undeads.com
 
@@ -55,9 +55,9 @@ The project's X profile [@undeadscom](https://x.com/undeadscom) discloses Singap
 
 ![undeadscom X profile disclosing Sezual Pte Ltd registered in Singapore](/assets/reports/0134/image14.png)
 
-## Sezual Pte Ltd — Singapore registry record
+## Sezual Pte Ltd - Singapore registry record
 
-Per public registry sources, **SEZUAL PTE. LTD.** is an Exempt Private Company Limited by Shares, incorporated on **26 July 2010** in Singapore. The registered office address is at **Hong Leong Building** (<https://www.sgpbusiness.com/building/HONG-LEONG-BUILDING/048581>). The registry lists its principal activity as _"development of software and applications (except games and cybersecurity)"_ — a classification that excludes the product category publicly marketed under the undeads.com brand.
+Per public registry sources, **SEZUAL PTE. LTD.** is an Exempt Private Company Limited by Shares, incorporated on **26 July 2010** in Singapore. The registered office address is at **Hong Leong Building** (<https://www.sgpbusiness.com/building/HONG-LEONG-BUILDING/048581>). The registry lists its principal activity as _"development of software and applications (except games and cybersecurity)"_ - a classification that excludes the product category publicly marketed under the undeads.com brand.
 
 Key principal (from the public registry): **YEOW LIH REN**.
 Previous company name (from the public registry): **TELEOS CORPORATE PTE. LTD.**
@@ -71,7 +71,7 @@ Sources:
 
 The individual named above is listed here because they appear in the Singapore registry record for SEZUAL PTE. LTD. This report makes no claim about them beyond what is on that registry record.
 
-## Undeads Interactive Limited — UK record (publisher)
+## Undeads Interactive Limited - UK record (publisher)
 
 While Sezual Pte Ltd appears as the main equity on undeads.com's terms page, **Undeads Interactive Limited** is a UK-registered entity acting as publisher.
 
@@ -81,12 +81,12 @@ While Sezual Pte Ltd appears as the main equity on undeads.com's terms page, **U
 
 UK Companies House lists as officers (public filings):
 
-- **Julija Gorska** (Director) — [Companies House record](https://find-and-update.company-information.service.gov.uk/officers/1jv2YxrvVmteUvtWa9thPZQBxNU/appointments)
-- **Vasil Dimitrov** (ex-Director) — [Companies House record](https://find-and-update.company-information.service.gov.uk/officers/Kfuhx6hTqxkHl0cuCF0QYabbhIE/appointments)
+- **Julija Gorska** (Director) - [Companies House record](https://find-and-update.company-information.service.gov.uk/officers/1jv2YxrvVmteUvtWa9thPZQBxNU/appointments)
+- **Vasil Dimitrov** (ex-Director) - [Companies House record](https://find-and-update.company-information.service.gov.uk/officers/Kfuhx6hTqxkHl0cuCF0QYabbhIE/appointments)
 
 The individuals named above are listed here because they appear in the publicly accessible UK Companies House records for **Undeads Interactive Limited**. This report makes no claim about them beyond what is on those public records.
 
-## LinkedIn — UAE headquarters claim
+## LinkedIn - UAE headquarters claim
 
 The undeads.com company LinkedIn profile lists **the United Arab Emirates** as headquarters.
 
@@ -94,7 +94,7 @@ The undeads.com company LinkedIn profile lists **the United Arab Emirates** as h
 
 ![undeads.com LinkedIn company profile listing UAE headquarters](/assets/reports/0134/image10.png)
 
-The LinkedIn profile also, at the time of review, shows **only one publicly visible employee profile** out of a stated headcount of 50+ — with remaining profiles, including C-level, configured as non-public.
+The LinkedIn profile also, at the time of review, shows **only one publicly visible employee profile** out of a stated headcount of 50+ - with remaining profiles, including C-level, configured as non-public.
 
 ![undeads.com LinkedIn company page showing limited public employee visibility](/assets/reports/0134/image8.png)
 
@@ -129,8 +129,8 @@ These individuals are named here solely because **undeads.com itself publicly id
 
 These individuals are listed here because they appear in public records directly linked to undeads.com:
 
-- **Roman Roshchuk** — <https://x.com/roshchuck>
-- **Konstantin Vinogradov** (UX Designer) — <https://www.linkedin.com/in/cryptodesigner/>
+- **Roman Roshchuk** - <https://x.com/roshchuck>
+- **Konstantin Vinogradov** (UX Designer) - <https://www.linkedin.com/in/cryptodesigner/>
 
 No claim is made about them beyond the public profile references above.
 

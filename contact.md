@@ -1,5 +1,5 @@
 ---
-title: Contact — CryptoKarl013
+title: Contact - CryptoKarl013
 description: How to reach CryptoKarl013 for tips, corrections, right-of-reply requests, or collaboration on blockchain-forensics investigations.
 permalink: /contact/
 canonical_url: https://cryptokarl013.xyz/contact/
@@ -12,7 +12,7 @@ last_modified_at: 2026-04-24
 
 ## Primary channel
 
-**Email — cryptokarl013@gmail.com**
+**Email - cryptokarl013@gmail.com**
 
 This is the preferred channel for:
 - Tips and new evidence
@@ -49,13 +49,13 @@ These are all operated by the same author and are verified cross-links.
 
 If you have a specific tip that you would like investigated:
 
-1. Prefer **transaction hashes and wallet addresses** over narrative — the site works from on-chain data, and a single tx hash is worth more than a paragraph of description.
+1. Prefer **transaction hashes and wallet addresses** over narrative - the site works from on-chain data, and a single tx hash is worth more than a paragraph of description.
 2. If you cannot share evidence publicly, say so in the first message; the author will agree on a secure channel before you send anything sensitive.
 3. Do not share **private keys, seed phrases, or login credentials**. The author does not need these and will not accept them.
 
 ## Optional support
 
-If you find published reports useful and would like to support the cost of paid data sources and hosting, optional donations are accepted at the addresses below. **All published research is produced independently of whether any donation has been received** — donations are not solicited in individual reports, and no donor has influence over editorial decisions. See the [Editorial Standards](/editorial-standards/) for the conflict-of-interest policy.
+If you find published reports useful and would like to support the cost of paid data sources and hosting, optional donations are accepted at the addresses below. **All published research is produced independently of whether any donation has been received** - donations are not solicited in individual reports, and no donor has influence over editorial decisions. See the [Editorial Standards](/editorial-standards/) for the conflict-of-interest policy.
 
 - **ETH:** `0x913d978C2BEb68b8Deaa266e59894841d65cAbA4`
 - **BTC:** `bc1qfe7gflhy76e45x52ajt9fhjlgw3nnndj04r9e4`

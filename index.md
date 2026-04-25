@@ -1,5 +1,5 @@
 ---
-title: CryptoKarl013 — Independent Blockchain Forensics
+title: CryptoKarl013 - Independent Blockchain Forensics
 description: Independent on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Evidence-based public reports built from verifiable blockchain data.
 canonical_url: https://cryptokarl013.xyz/
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
@@ -15,7 +15,7 @@ author: cryptokarl013
             </div>
             <div class="hero-text">
                 <div>
-                    <h1 class="badge">CryptoKarl013 — Independent Blockchain Forensics</h1>
+                    <h1 class="badge">CryptoKarl013 - Independent Blockchain Forensics</h1>
                 </div>
                 <div class="subtitle">
                     Public on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Every claim in every report is sourced to verifiable blockchain data that any reader can reproduce.
@@ -29,7 +29,7 @@ author: cryptokarl013
         <div class="section-card">
             <h2>What this site is</h2>
             <p class="intro-text">
-                <strong>CryptoKarl013</strong> is an independent, pseudonymous blockchain-forensics researcher. This site publishes evidence-based on-chain investigations — drained wallets, laundering paths, sanctioned-entity interactions, NFT-whale wallet clustering — built exclusively from public blockchain data and public corporate filings.
+                <strong>CryptoKarl013</strong> is an independent, pseudonymous blockchain-forensics researcher. This site publishes evidence-based on-chain investigations - drained wallets, laundering paths, sanctioned-entity interactions, NFT-whale wallet clustering - built exclusively from public blockchain data and public corporate filings.
             </p>
             <p class="intro-text">
                 The research is not affiliated with any exchange, law-enforcement agency, or commercial analytics vendor. Reports are published under a stated editorial policy with a documented methodology, a right-of-reply process for named subjects, and a transparent corrections policy.
@@ -52,19 +52,19 @@ author: cryptokarl013
             <ul class="report-list">
                 <li class="report-item">
                     <a href="/reports/0135/" class="report-link">
-                        Report #0135 — Solana wallets drained: 657 accounts hit in a single-day attack (October 9, 2025)
+                        Report #0135 - Solana wallets drained: 657 accounts hit in a single-day attack (October 9, 2025)
                     </a>
                     <span class="report-date">Published: 2025-10-17 · Updated: 2026-04-15</span>
                 </li>
                 <li class="report-item">
                     <a href="/reports/0135/1-fund-flow/" class="report-link">
-                        Report #0135.1 — Attacker <code>deQzb</code> follow-up: identified Coinbase off-ramp and ongoing SPL seizures
+                        Report #0135.1 - Attacker <code>deQzb</code> follow-up: identified Coinbase off-ramp and ongoing SPL seizures
                     </a>
                     <span class="report-date">Published: 2026-04-15 · Updated: 2026-04-24</span>
                 </li>
                 <li class="report-item">
                     <a href="/reports/0134/" class="report-link">
-                        Report #0134 — Stolen ETH traced to NFT whales (n0b0dy, indifferent) and an investment into undeads.com
+                        Report #0134 - Stolen ETH traced to NFT whales (n0b0dy, indifferent) and an investment into undeads.com
                     </a>
                     <span class="report-date">Published: 2025-08-28 · Updated: 2026-04-08</span>
                 </li>
@@ -74,7 +74,7 @@ author: cryptokarl013
         <div class="section-card">
             <h2>How to read these reports</h2>
             <ul class="report-list">
-                <li class="report-item">Every transaction hash, contract address, and filing reference is linkable and independently verifiable — reproduce the evidence, do not rely on this site's summary alone.</li>
+                <li class="report-item">Every transaction hash, contract address, and filing reference is linkable and independently verifiable - reproduce the evidence, do not rely on this site's summary alone.</li>
                 <li class="report-item">Language is deliberate: "on-chain evidence shows" means verifiable, "is consistent with" means the pattern fits a class of behaviour but alternatives exist, "allegedly" means a third-party claim.</li>
                 <li class="report-item">No report is a criminal allegation against any named natural person. Pages that name natural persons (as they appear in public registries) are kept out of search indexes; they are reachable by direct link only.</li>
                 <li class="report-item">If you find an error, submit it via <a href="/corrections/">Corrections</a>. Subjects of reports are offered right of reply.</li>
@@ -84,7 +84,7 @@ author: cryptokarl013
         <div class="section-card" id="contact">
             <h2>Contact</h2>
             <p class="intro-text">
-                For tips, corrections, right-of-reply requests, or collaboration — see the <a href="/contact/">Contact</a> page. Primary channel is email: <a href="mailto:cryptokarl013@gmail.com">cryptokarl013@gmail.com</a>.
+                For tips, corrections, right-of-reply requests, or collaboration - see the <a href="/contact/">Contact</a> page. Primary channel is email: <a href="mailto:cryptokarl013@gmail.com">cryptokarl013@gmail.com</a>.
             </p>
             <div class="contact-grid">
                 <div class="contact-item">

@@ -1,6 +1,6 @@
 ---
-title: Legal Disclaimer — CryptoKarl013
-description: Legal disclaimer governing all content on cryptokarl013.xyz — what the reports are, what they are not, and the limits of their use.
+title: Legal Disclaimer - CryptoKarl013
+description: Legal disclaimer governing all content on cryptokarl013.xyz - what the reports are, what they are not, and the limits of their use.
 permalink: /disclaimer/
 canonical_url: https://cryptokarl013.xyz/disclaimer/
 author: cryptokarl013

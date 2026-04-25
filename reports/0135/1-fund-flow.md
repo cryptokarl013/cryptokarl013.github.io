@@ -1,5 +1,5 @@
 ---
-title: "Report #0135.1 — Attacker deQzb Follow-up: Laundering Path to Coinbase and Ongoing SPL Token Seizures"
+title: "Report #0135.1 - Attacker deQzb Follow-up: Laundering Path to Coinbase and Ongoing SPL Token Seizures"
 description: "Follow-up to Report #0135. Identifies a probable Coinbase off-ramp via the 4dfPa deposit wallet, catalogues three additional attacker-controlled wallets via SPL SetAuthority signer analysis, and records ongoing April 2026 activity."
 permalink: /reports/0135/1-fund-flow/
 canonical_url: https://cryptokarl013.xyz/reports/0135/1-fund-flow/
@@ -11,7 +11,7 @@ redirect_from:
   - /report-0135-657-solana-wallets-drained-by-deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3-on-09102025/report-0135.1-fund-flow-analysis-deQzb-to-6Mgca-CMKY-4dfPa/
 ---
 
-# Report #0135.1 — Attacker `deQzb` Follow-up: Laundering Path to Coinbase and Ongoing SPL Token Seizures
+# Report #0135.1 - Attacker `deQzb` Follow-up: Laundering Path to Coinbase and Ongoing SPL Token Seizures
 
 > This report is a follow-up to [Report #0135](/reports/0135/).
 
@@ -19,24 +19,24 @@ redirect_from:
 
 A follow-up on-chain investigation of the attacker wallet `deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3` (the drainer from [Report #0135](/reports/0135/)) produces two linked findings:
 
-1. **A probable off-ramp into a specific Coinbase account has been identified**, although the October 2025 stolen SOL batch has not yet been observed traversing it on-chain. In March 2026, `deQzb` forwarded funds to two intermediaries — `CMKY` and `6Mgca` (March 20). `6Mgca` independently deposits SOL into `4dfPa`, which **[Arkham Intelligence](https://intel.arkm.com/explorer/address/4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr) labels as a Coinbase Personal Deposit Wallet** — an account-specific deposit address belonging to a single Coinbase user. The two observed `6Mgca → 4dfPa` deposits (Mar 9 and Mar 17) **predate** the `deQzb → 6Mgca` transfer (Mar 20), so those specific deposits could not have carried the October 2025 stolen SOL. What the data does establish is that `6Mgca` — a wallet that subsequently received stolen funds from `deQzb` — maintains an active deposit channel into this Coinbase user's account. That makes this the single most plausible off-ramp for the stolen funds, pending observation of a post-March-20 `6Mgca → 4dfPa` transfer.
-2. **The attacker is still active and controls a broader wallet cluster.** In the 6 days to 2026-04-24, `deQzb` executed 5 transactions that seized SPL token balances via the Solana SPL Token program's `SetAuthority` instruction, with a **net retained USD value of +$8,530**. Applying the `SetAuthority` signing rule proves that three additional wallets — `3ScNEE`, `HW66xmb`, and `Futbm` — are under the attacker's control. Combined with the March laundering path, **six attacker-controlled wallets** are now catalogued, plus one identified off-ramp (Coinbase).
+1. **A probable off-ramp into a specific Coinbase account has been identified**, although the October 2025 stolen SOL batch has not yet been observed traversing it on-chain. In March 2026, `deQzb` forwarded funds to two intermediaries - `CMKY` and `6Mgca` (March 20). `6Mgca` independently deposits SOL into `4dfPa`, which **[Arkham Intelligence](https://intel.arkm.com/explorer/address/4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr) labels as a Coinbase Personal Deposit Wallet** - an account-specific deposit address belonging to a single Coinbase user. The two observed `6Mgca → 4dfPa` deposits (Mar 9 and Mar 17) **predate** the `deQzb → 6Mgca` transfer (Mar 20), so those specific deposits could not have carried the October 2025 stolen SOL. What the data does establish is that `6Mgca` - a wallet that subsequently received stolen funds from `deQzb` - maintains an active deposit channel into this Coinbase user's account. That makes this the single most plausible off-ramp for the stolen funds, pending observation of a post-March-20 `6Mgca → 4dfPa` transfer.
+2. **The attacker is still active and controls a broader wallet cluster.** In the 6 days to 2026-04-24, `deQzb` executed 5 transactions that seized SPL token balances via the Solana SPL Token program's `SetAuthority` instruction, with a **net retained USD value of +$8,530**. Applying the `SetAuthority` signing rule proves that three additional wallets - `3ScNEE`, `HW66xmb`, and `Futbm` - are under the attacker's control. Combined with the March laundering path, **six attacker-controlled wallets** are now catalogued, plus one identified off-ramp (Coinbase).
 
 ## Material of investigation
 
-- **Google BigQuery public dataset** — `bigquery-public-data.crypto_solana_mainnet_us.Token Transfers` (used for the March 2026 laundering-path analysis).
-- **Arkham Intelligence export** — full transfer history for `deQzb`, 676 transactions from 2025-10-09 to 2026-04-24 (used for the ongoing-activity analysis).
-- **Solscan** — transaction verification.
-- **Arkham Intelligence labels** — quoted verbatim; `4dfPa` identified as a Coinbase Personal Deposit Wallet.
-- **Solana SPL Token program source** — [authority-change instruction semantics](https://github.com/solana-program/token/blob/main/program/src/processor.rs).
+- **Google BigQuery public dataset** - `bigquery-public-data.crypto_solana_mainnet_us.Token Transfers` (used for the March 2026 laundering-path analysis).
+- **Arkham Intelligence export** - full transfer history for `deQzb`, 676 transactions from 2025-10-09 to 2026-04-24 (used for the ongoing-activity analysis).
+- **Solscan** - transaction verification.
+- **Arkham Intelligence labels** - quoted verbatim; `4dfPa` identified as a Coinbase Personal Deposit Wallet.
+- **Solana SPL Token program source** - [authority-change instruction semantics](https://github.com/solana-program/token/blob/main/program/src/processor.rs).
 
 ## Attacker-controlled wallet cluster
 
 | Short name | Address | Role |
 |---|---|---|
 | **deQzb**  | [`deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3`](https://intel.arkm.com/explorer/address/deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3) | Primary drainer (Report #0135) |
-| **CMKY**   | [`CMKY625CeWehSuqxSrZJiNibKP13FLmcovPorqxkdcxj`](https://intel.arkm.com/explorer/address/CMKY625CeWehSuqxSrZJiNibKP13FLmcovPorqxkdcxj) | Intermediary — received from `deQzb` Mar 2026 |
-| **6Mgca**  | [`6MgcaeMYVfecgMe87UqY8PvtyHQ5FhjeC2XpuoPgyvPb`](https://intel.arkm.com/explorer/address/6MgcaeMYVfecgMe87UqY8PvtyHQ5FhjeC2XpuoPgyvPb) | Intermediary — received from `deQzb`; forwards to Coinbase |
+| **CMKY**   | [`CMKY625CeWehSuqxSrZJiNibKP13FLmcovPorqxkdcxj`](https://intel.arkm.com/explorer/address/CMKY625CeWehSuqxSrZJiNibKP13FLmcovPorqxkdcxj) | Intermediary - received from `deQzb` Mar 2026 |
+| **6Mgca**  | [`6MgcaeMYVfecgMe87UqY8PvtyHQ5FhjeC2XpuoPgyvPb`](https://intel.arkm.com/explorer/address/6MgcaeMYVfecgMe87UqY8PvtyHQ5FhjeC2XpuoPgyvPb) | Intermediary - received from `deQzb`; forwards to Coinbase |
 | **3ScNE**  | [`3ScNEE3m4bKy6NLiLDFu5rbHJj5eg4t4yk8tYNQoZ9Ad`](https://intel.arkm.com/explorer/address/3ScNEE3m4bKy6NLiLDFu5rbHJj5eg4t4yk8tYNQoZ9Ad) | Signed `SetAuthority` to `deQzb` (Apr 2026) |
 | **HW66x**  | [`HW66xmbLcqDyREHJDZkzSaygTJjLt6V3TcktipFosrqJ`](https://intel.arkm.com/explorer/address/HW66xmbLcqDyREHJDZkzSaygTJjLt6V3TcktipFosrqJ) | Signed `SetAuthority` to `deQzb` (Apr 2026) |
 | **Futbm**  | [`Futbm4v55YL4AZhm8r11AfySMuUjVujWHRWWYpE63aFu`](https://intel.arkm.com/explorer/address/Futbm4v55YL4AZhm8r11AfySMuUjVujWHRWWYpE63aFu) | Signed `SetAuthority` to `deQzb` (Apr 2026) |
@@ -45,11 +45,11 @@ A follow-up on-chain investigation of the attacker wallet `deQzbGSDA3U6bFmxAfWuJ
 
 | Short name | Address | Role |
 |---|---|---|
-| **4dfPa** | [`4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr`](https://intel.arkm.com/explorer/address/4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr) | Coinbase Personal Deposit Wallet (Arkham label) — probable off-ramp |
+| **4dfPa** | [`4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr`](https://intel.arkm.com/explorer/address/4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr) | Coinbase Personal Deposit Wallet (Arkham label) - probable off-ramp |
 
 ---
 
-## Part 1 — Laundering path: `deQzb → 6Mgca → 4dfPa [Coinbase]`
+## Part 1 - Laundering path: `deQzb → 6Mgca → 4dfPa [Coinbase]`
 
 ### Fund-flow timeline
 
@@ -60,11 +60,11 @@ deQzb (attacker) ──→ CMKY                           (Mar 20, 2026 05:39 UT
 deQzb (attacker) ──→ 6Mgca                          (Mar 20, 2026 05:50 UTC)
 ```
 
-> The two `6Mgca → 4dfPa` deposits occur *before* `6Mgca` receives from `deQzb` on March 20. They establish `6Mgca`'s Coinbase deposit channel but cannot themselves carry the October 2025 stolen SOL. A post-March-20 `6Mgca → 4dfPa` transfer — not yet observed in the available data — is required to prove the specific stolen batch reached Coinbase.
+> The two `6Mgca → 4dfPa` deposits occur *before* `6Mgca` receives from `deQzb` on March 20. They establish `6Mgca`'s Coinbase deposit channel but cannot themselves carry the October 2025 stolen SOL. A post-March-20 `6Mgca → 4dfPa` transfer - not yet observed in the available data - is required to prove the specific stolen batch reached Coinbase.
 
 ### 1.1 Attacker wallet distributes stolen funds (March 20, 2026)
 
-The attacker wallet `deQzb` made 2 outgoing transfers on the same day, 11 minutes apart — a coordinated distribution:
+The attacker wallet `deQzb` made 2 outgoing transfers on the same day, 11 minutes apart - a coordinated distribution:
 
 | № | Timestamp (UTC) | From | To | Tx signature |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ ORDER BY block_timestamp ASC;
 
 ### 1.2 `6Mgca` forwards to the Coinbase deposit wallet `4dfPa`
 
-`6Mgca` sent two transfers to `4dfPa` on March 9 and March 17, 2026 — **before** receiving its own transfer from `deQzb` on March 20. The ordering means `6Mgca` was already operating as an intermediary with an established deposit channel, not a freshly spun-up burn wallet.
+`6Mgca` sent two transfers to `4dfPa` on March 9 and March 17, 2026 - **before** receiving its own transfer from `deQzb` on March 20. The ordering means `6Mgca` was already operating as an intermediary with an established deposit channel, not a freshly spun-up burn wallet.
 
 | № | Timestamp (UTC) | From | To | Tx signature |
 |---|---|---|---|---|
@@ -107,17 +107,17 @@ The address [`4dfPaYTyCyuKKqMyp9Riy84oJmbykceUFBAvRn9d9XSr`](https://intel.arkm.
 
 - The two `6Mgca → 4dfPa` deposits (Mar 9 and Mar 17) predate `deQzb → 6Mgca` (Mar 20) and therefore **cannot have carried** the SOL drained on October 9, 2025.
 - Available data **does show** that `6Mgca` maintains a recurring deposit channel into this one specific Coinbase user's account, and that `6Mgca` subsequently received stolen SOL from the attacker wallet `deQzb` on March 20.
-- A post-March-20 `6Mgca → 4dfPa` transfer — not yet observed in the available data — would be required to close the chain.
+- A post-March-20 `6Mgca → 4dfPa` transfer - not yet observed in the available data - would be required to close the chain.
 
 Once funds reach a Coinbase Personal Deposit Wallet, on-chain tracing stops being meaningful: any subsequent movements belong to Coinbase's internal consolidation infrastructure. Further identification of the account holder would require legal process to Coinbase.
 
-BigQuery confirms that **no reverse transfers** from `6Mgca`, `CMKY`, or `4dfPa` ever returned to `deQzb` — the observed flow is strictly one-directional.
+BigQuery confirms that **no reverse transfers** from `6Mgca`, `CMKY`, or `4dfPa` ever returned to `deQzb` - the observed flow is strictly one-directional.
 
 ---
 
-## Part 2 — Ongoing SPL token seizures via `SetAuthority` (April 2026)
+## Part 2 - Ongoing SPL token seizures via `SetAuthority` (April 2026)
 
-Unlike the October 2025 attack — which drained only native SOL — the April 2026 activity uses a different on-chain primitive: **`SetAuthority`** to seize the owner authority of SPL token accounts.
+Unlike the October 2025 attack - which drained only native SOL - the April 2026 activity uses a different on-chain primitive: **`SetAuthority`** to seize the owner authority of SPL token accounts.
 
 ### 2.1 Activity in the 6 days to 2026-04-24
 
@@ -144,14 +144,14 @@ Unlike the October 2025 attack — which drained only native SOL — the April 2
 
 ### 2.3 Observations
 
-- **New attack primitive: `SetAuthority`.** The October 2025 attack drained SOL via direct transfers and `closeAccount`. The April 2026 activity uses `SetAuthority` to seize the `AccountOwner` authority of SPL token accounts — a different technique that specifically targets token holdings rather than SOL balances.
-- **Target shift from SOL to SPL tokens (likely memecoins).** Each inbound event brings a different SPL token (`3k5z8WWX…`, `GM9WxQp…`, `3tWGSt…`), all with 6 decimals and small unit prices (~$0.017–$0.35), consistent with Solana memecoins (pump.fun / Raydium-listed). This aligns with Report #0135's finding that 96% of victim wallets had pump.fun activity — the attacker appears to be returning to liquidate token holdings that were left behind in the October 2025 SOL-only sweep.
+- **New attack primitive: `SetAuthority`.** The October 2025 attack drained SOL via direct transfers and `closeAccount`. The April 2026 activity uses `SetAuthority` to seize the `AccountOwner` authority of SPL token accounts - a different technique that specifically targets token holdings rather than SOL balances.
+- **Target shift from SOL to SPL tokens (likely memecoins).** Each inbound event brings a different SPL token (`3k5z8WWX…`, `GM9WxQp…`, `3tWGSt…`), all with 6 decimals and small unit prices (~$0.017–$0.35), consistent with Solana memecoins (pump.fun / Raydium-listed). This aligns with Report #0135's finding that 96% of victim wallets had pump.fun activity - the attacker appears to be returning to liquidate token holdings that were left behind in the October 2025 SOL-only sweep.
 - **Repeated authority-take → transfer cycle.** Each `SET OWNER AUTHORITY` inbound is followed ~1.5 days later by an outbound `TRANSFER` of the exact same amount of the same token, back to the same counterparty address. For `3ScNEE` and `HW66xmb` the cycle is complete; for `Futbm` the outbound had not yet occurred at export time.
 - **Ongoing, not dormant.** Six months after being publicly identified as a drainer in Report #0135, `deQzb` continues to receive and move tokens worth thousands of USD per week. No exchange or authority has frozen this wallet.
 
 ### 2.4 Attribution: `3ScNEE`, `HW66xmb`, `Futbm` are attacker-controlled
 
-The SPL Token program's `SetAuthority` instruction has a strict authorization rule: **only the current authority of a token account can sign a transaction that changes the authority**. The instruction is defined in the [Solana SPL Token program](https://github.com/solana-program/token/blob/main/program/src/processor.rs) and requires a signed instruction from the existing authority — the new authority does *not* need to sign or approve.
+The SPL Token program's `SetAuthority` instruction has a strict authorization rule: **only the current authority of a token account can sign a transaction that changes the authority**. The instruction is defined in the [Solana SPL Token program](https://github.com/solana-program/token/blob/main/program/src/processor.rs) and requires a signed instruction from the existing authority - the new authority does *not* need to sign or approve.
 
 | Event | Previous authority | New authority | Who had to sign |
 |---|---|---|---|
@@ -162,16 +162,16 @@ The SPL Token program's `SetAuthority` instruction has a strict authorization ru
 For each of the three transactions to land on-chain, the private key of `3ScNEE`, `HW66xmb`, and `Futbm` respectively had to sign. Therefore one of the following is true for each counterparty:
 
 1. **The attacker controls the private key of that address** (directly or via prior key compromise). In either case the address is under attacker control.
-2. **The address's owner voluntarily handed over authority to a publicly-known drainer wallet.** Ruled implausible — `deQzb` has been publicly flagged as a SOL drainer since October 2025 and is searchable on Solscan and Arkham; no rational legitimate counterparty would knowingly transfer token ownership to it.
+2. **The address's owner voluntarily handed over authority to a publicly-known drainer wallet.** Ruled implausible - `deQzb` has been publicly flagged as a SOL drainer since October 2025 and is searchable on Solscan and Arkham; no rational legitimate counterparty would knowingly transfer token ownership to it.
 
 Supporting the attacker-controlled interpretation:
 
-- **Pattern repetition.** The identical "authority-take → delayed transfer back" sequence occurred three times in six days with three different counterparties — consistent with a scripted operation by a single actor.
+- **Pattern repetition.** The identical "authority-take → delayed transfer back" sequence occurred three times in six days with three different counterparties - consistent with a scripted operation by a single actor.
 - **Economic irrationality of the alternative.** If `3ScNEE`, `HW66xmb`, `Futbm` were independent parties, they would be gifting ~$19K of tokens to a known drainer. No inbound payment or service explains this.
 - **Fast automated round-trip.** The ~1.5-day cycle between authority change and outbound transfer fits an automated consolidation-and-liquidate pattern.
 - **No reciprocal flow.** `deQzb` does not compensate these wallets.
 
-**Conclusion:** `3ScNEE3m4bKy6NLiLDFu5rbHJj5eg4t4yk8tYNQoZ9Ad`, `HW66xmbLcqDyREHJDZkzSaygTJjLt6V3TcktipFosrqJ`, and `Futbm4v55YL4AZhm8r11AfySMuUjVujWHRWWYpE63aFu` are, with high confidence, either additional wallets operated by the same attacker or wallets whose private keys the attacker has compromised. Operationally the distinction does not matter — the attacker signs for all of them.
+**Conclusion:** `3ScNEE3m4bKy6NLiLDFu5rbHJj5eg4t4yk8tYNQoZ9Ad`, `HW66xmbLcqDyREHJDZkzSaygTJjLt6V3TcktipFosrqJ`, and `Futbm4v55YL4AZhm8r11AfySMuUjVujWHRWWYpE63aFu` are, with high confidence, either additional wallets operated by the same attacker or wallets whose private keys the attacker has compromised. Operationally the distinction does not matter - the attacker signs for all of them.
 
 ### 2.5 SPL token mints seen in this window
 
@@ -198,7 +198,7 @@ At the evidence thresholds in [Editorial Standards § 1](/editorial-standards/#1
 
 - **Verifiable:** `deQzb` remains active through 2026-04-24. Five transactions in the last 6 days; net retained USD **+$8,530**.
 - **Verifiable:** Three `SET OWNER AUTHORITY` events require that `3ScNEE`, `HW66xmb`, and `Futbm` each signed as the previous authority.
-- **Inferred (high confidence):** The attacker controls all three wallets. The alternative — voluntary authority transfer by independent parties to a publicly known drainer — is economically implausible.
+- **Inferred (high confidence):** The attacker controls all three wallets. The alternative - voluntary authority transfer by independent parties to a publicly known drainer - is economically implausible.
 
 ## Combined attacker cluster
 

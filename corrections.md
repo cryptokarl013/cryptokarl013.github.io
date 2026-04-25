@@ -1,5 +1,5 @@
 ---
-title: Corrections and Right of Reply — CryptoKarl013
+title: Corrections and Right of Reply - CryptoKarl013
 description: How to submit a correction, additional evidence, or right-of-reply request for any investigation published on cryptokarl013.xyz.
 permalink: /corrections/
 canonical_url: https://cryptokarl013.xyz/corrections/
@@ -17,14 +17,14 @@ If you are the subject of a report, a reader who has spotted a factual error, or
 Email **cryptokarl013@gmail.com** with the subject line:
 
 ```
-Correction: Report #<number> — <one-line summary of the claim you are disputing>
+Correction: Report #<number> - <one-line summary of the claim you are disputing>
 ```
 
 Please include:
 
 1. **The specific claim** you believe is inaccurate, copied verbatim from the report.
-2. **Your evidence** — a transaction hash, a filing reference, a PDF, an archive.org snapshot. Evidence that is itself verifiable on-chain or in a public registry is the strongest; evidence that requires trust in the sender alone is the weakest.
-3. **What you would like the outcome to be** — a factual correction, a full retraction, or a right-of-reply response appended to the report.
+2. **Your evidence** - a transaction hash, a filing reference, a PDF, an archive.org snapshot. Evidence that is itself verifiable on-chain or in a public registry is the strongest; evidence that requires trust in the sender alone is the weakest.
+3. **What you would like the outcome to be** - a factual correction, a full retraction, or a right-of-reply response appended to the report.
 4. **Your identity and relationship to the subject matter.** Corrections from anonymous sources are reviewed, but the strongest weight is given to named sources or to the subject of the report themselves.
 
 ## Review process
@@ -48,8 +48,8 @@ Any **named individual or entity** that is the subject of a report may submit a 
 ## What does not qualify as a correction
 
 - Requests to remove a report because it is unflattering, without evidence that a specific claim is factually wrong.
-- Requests to remove on-chain evidence because the wallet has since been emptied, renamed, or transferred — the historical transaction record is permanent and public.
-- Requests to remove corporate filings citations because the filing has since been amended — the original filing remains on the public record.
+- Requests to remove on-chain evidence because the wallet has since been emptied, renamed, or transferred - the historical transaction record is permanent and public.
+- Requests to remove corporate filings citations because the filing has since been amended - the original filing remains on the public record.
 
 For these, a right-of-reply response is available.
 
