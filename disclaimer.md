@@ -1,8 +1,8 @@
 ---
 title: Legal Disclaimer - CryptoKarl013
-description: Legal disclaimer governing all content on cryptokarl013.xyz - what the reports are, what they are not, and the limits of their use.
+description: Legal disclaimer governing all content on cryptokarl013.github.io - what the reports are, what they are not, and the limits of their use.
 permalink: /disclaimer/
-canonical_url: https://cryptokarl013.xyz/disclaimer/
+canonical_url: https://cryptokarl013.github.io/disclaimer/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24
@@ -12,7 +12,7 @@ last_modified_at: 2026-04-24
 
 ## What the content on this site is
 
-Every report published on **cryptokarl013.xyz** is an independent research document produced from public on-chain and public-registry data. Reports describe:
+Every report published on **cryptokarl013.github.io** is an independent research document produced from public on-chain and public-registry data. Reports describe:
 
 - Transactions that have occurred on public blockchains and can be re-verified by any reader.
 - Patterns in that transaction data that are consistent with specific categories of behaviour (e.g., laundering, whale clustering, private-key compromise).

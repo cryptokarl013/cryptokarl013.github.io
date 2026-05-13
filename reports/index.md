@@ -1,8 +1,8 @@
 ---
 title: Reports Index - CryptoKarl013
-description: Complete catalogue of on-chain investigations published on cryptokarl013.xyz - crypto theft, NFT-whale clustering, illicit fund flows, and sanctioned-entity interactions.
+description: Complete catalogue of on-chain investigations published on cryptokarl013.github.io - crypto theft, NFT-whale clustering, illicit fund flows, and sanctioned-entity interactions.
 permalink: /reports/
-canonical_url: https://cryptokarl013.xyz/reports/
+canonical_url: https://cryptokarl013.github.io/reports/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24

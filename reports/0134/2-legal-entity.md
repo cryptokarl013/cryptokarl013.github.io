@@ -2,8 +2,8 @@
 title: "Report #0134.2 - undeads.com: Inconsistent Public Information About Legal Operating Entity"
 description: "Public corporate filings list three different jurisdictions for entities associated with undeads.com. This report documents the inconsistency from primary-registry sources."
 permalink: /reports/0134/2-legal-entity/
-canonical_url: https://cryptokarl013.xyz/reports/0134/2-legal-entity/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134.2_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/2-legal-entity/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134.2_cover.png
 author: cryptokarl013
 date: 2025-08-28
 last_modified_at: 2026-04-24

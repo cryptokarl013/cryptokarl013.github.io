@@ -2,8 +2,8 @@
 title: "Report #0134.4 - undeads.com Routed ~$1M Through OFAC-Sanctioned Cryptex.net While Its Investors Received Funds from the Same Platform"
 description: "On-chain tracing of ~540 ETH (~$970K spring-2023) flowing from undeads.com wallets through intermediaries to OFAC-sanctioned Cryptex.net hot wallets, with funds also flowing back to the investor cluster and onward to Binance."
 permalink: /reports/0134/4-cryptex-routing/
-canonical_url: https://cryptokarl013.xyz/reports/0134/4-cryptex-routing/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134.4_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/4-cryptex-routing/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134.4_cover.png
 author: cryptokarl013
 date: 2026-04-07
 last_modified_at: 2026-04-24

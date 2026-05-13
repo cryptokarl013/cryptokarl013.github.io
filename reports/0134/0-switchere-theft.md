@@ -2,8 +2,8 @@
 title: "Report #0134.0 - Switchere.com ETH Outflow Traces On-Chain to NFT Whales n0b0dy.eth and indifferent.eth"
 description: "On-chain tracing of the May 2022 Switchere.com 100-ETH outflow through intermediary wallets into addresses associated with NFT whales n0b0dy.eth and indifferent.eth."
 permalink: /reports/0134/0-switchere-theft/
-canonical_url: https://cryptokarl013.xyz/reports/0134/0-switchere-theft/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134.0_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/0-switchere-theft/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134.0_cover.png
 author: cryptokarl013
 date: 2025-08-28
 last_modified_at: 2026-04-24

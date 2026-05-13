@@ -1,7 +1,7 @@
 ---
 title: CryptoKarl013 - Independent Blockchain Forensics
 description: Independent on-chain research into crypto theft, NFT-whale activity, and illicit fund flows. Evidence-based public reports built from verifiable blockchain data.
-canonical_url: https://cryptokarl013.xyz/
+canonical_url: https://cryptokarl013.github.io/
 image: https://avatars.githubusercontent.com/u/212721571?s=200&u=15fab0c2b8fe82ab05e1ab1d50b8e927a8143393&v=4
 date: 2025-12-09
 last_modified_at: 2026-04-24

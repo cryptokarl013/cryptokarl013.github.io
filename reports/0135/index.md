@@ -2,8 +2,8 @@
 title: "Report #0135 - Solana Wallets Drained: 657 Accounts Hit in a Single-Day Attack (October 9, 2025)"
 description: "On-chain analysis of an October 9, 2025 attack that drained 657 Solana wallets to the address deQzbGSDA3U6bFmxAfWuJYhYBvN647fP1i8DEDoVNW3, with 96% of victims having prior pump.fun activity."
 permalink: /reports/0135/
-canonical_url: https://cryptokarl013.xyz/reports/0135/
-image: https://cryptokarl013.xyz/assets/reports/0135/report_0135_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0135/
+image: https://cryptokarl013.github.io/assets/reports/0135/report_0135_cover.png
 author: cryptokarl013
 date: 2025-10-17
 last_modified_at: 2026-04-24

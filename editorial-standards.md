@@ -1,8 +1,8 @@
 ---
 title: Editorial Standards - CryptoKarl013
-description: The editorial standards applied to every investigation published on cryptokarl013.xyz - language conventions, evidence thresholds, treatment of named individuals, and take-down policy.
+description: The editorial standards applied to every investigation published on cryptokarl013.github.io - language conventions, evidence thresholds, treatment of named individuals, and take-down policy.
 permalink: /editorial-standards/
-canonical_url: https://cryptokarl013.xyz/editorial-standards/
+canonical_url: https://cryptokarl013.github.io/editorial-standards/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24

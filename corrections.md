@@ -1,8 +1,8 @@
 ---
 title: Corrections and Right of Reply - CryptoKarl013
-description: How to submit a correction, additional evidence, or right-of-reply request for any investigation published on cryptokarl013.xyz.
+description: How to submit a correction, additional evidence, or right-of-reply request for any investigation published on cryptokarl013.github.io.
 permalink: /corrections/
-canonical_url: https://cryptokarl013.xyz/corrections/
+canonical_url: https://cryptokarl013.github.io/corrections/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24

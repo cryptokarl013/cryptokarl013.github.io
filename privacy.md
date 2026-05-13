@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy - CryptoKarl013
-description: Privacy policy for cryptokarl013.xyz, describing what data is collected from visitors, how it is used, and what third-party services are involved.
+description: Privacy policy for cryptokarl013.github.io, describing what data is collected from visitors, how it is used, and what third-party services are involved.
 permalink: /privacy/
-canonical_url: https://cryptokarl013.xyz/privacy/
+canonical_url: https://cryptokarl013.github.io/privacy/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24
@@ -10,7 +10,7 @@ last_modified_at: 2026-04-24
 
 # Privacy Policy
 
-This site - **cryptokarl013.xyz** - is a static research publication. It does not maintain user accounts, comment systems, or server-side forms. The following explains what limited data is collected when you visit.
+This site - **cryptokarl013.github.io** - is a static research publication. It does not maintain user accounts, comment systems, or server-side forms. The following explains what limited data is collected when you visit.
 
 ## 1. Data collected by the site itself
 

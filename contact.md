@@ -2,7 +2,7 @@
 title: Contact - CryptoKarl013
 description: How to reach CryptoKarl013 for tips, corrections, right-of-reply requests, or collaboration on blockchain-forensics investigations.
 permalink: /contact/
-canonical_url: https://cryptokarl013.xyz/contact/
+canonical_url: https://cryptokarl013.github.io/contact/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24

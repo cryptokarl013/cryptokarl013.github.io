@@ -2,7 +2,7 @@
 title: About CryptoKarl013 - Independent Blockchain Forensics Researcher
 description: Who is behind CryptoKarl013, how this research is conducted, what data sources are used, and how to verify the author's identity across platforms.
 permalink: /about/
-canonical_url: https://cryptokarl013.xyz/about/
+canonical_url: https://cryptokarl013.github.io/about/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24
@@ -28,7 +28,7 @@ The following accounts are all operated by the author of this site. Cross-linkin
 
 | Platform  | Handle                    | URL |
 |-----------|---------------------------|-----|
-| Website   | cryptokarl013.xyz          | <https://cryptokarl013.xyz/> |
+| Website   | cryptokarl013.github.io          | <https://cryptokarl013.github.io/> |
 | GitHub    | @cryptokarl013             | <https://github.com/cryptokarl013> |
 | X (Twitter) | @CryptoKarl013          | <https://x.com/CryptoKarl013> |
 | Telegram  | @cryptoinvestigations013   | <https://t.me/cryptoinvestigations013> |

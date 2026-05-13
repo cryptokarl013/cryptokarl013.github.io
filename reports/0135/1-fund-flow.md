@@ -2,8 +2,8 @@
 title: "Report #0135.1 - Attacker deQzb Follow-up: Laundering Path to Coinbase and Ongoing SPL Token Seizures"
 description: "Follow-up to Report #0135. Identifies a probable Coinbase off-ramp via the 4dfPa deposit wallet, catalogues three additional attacker-controlled wallets via SPL SetAuthority signer analysis, and records ongoing April 2026 activity."
 permalink: /reports/0135/1-fund-flow/
-canonical_url: https://cryptokarl013.xyz/reports/0135/1-fund-flow/
-image: https://cryptokarl013.xyz/assets/reports/0135/report_0135_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0135/1-fund-flow/
+image: https://cryptokarl013.github.io/assets/reports/0135/report_0135_cover.png
 author: cryptokarl013
 date: 2026-04-15
 last_modified_at: 2026-04-24

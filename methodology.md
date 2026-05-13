@@ -1,8 +1,8 @@
 ---
 title: Investigation Methodology - CryptoKarl013
-description: The step-by-step methodology used to produce on-chain investigations published on cryptokarl013.xyz, including data sources, attribution rules, and reproducibility standards.
+description: The step-by-step methodology used to produce on-chain investigations published on cryptokarl013.github.io, including data sources, attribution rules, and reproducibility standards.
 permalink: /methodology/
-canonical_url: https://cryptokarl013.xyz/methodology/
+canonical_url: https://cryptokarl013.github.io/methodology/
 author: cryptokarl013
 date: 2026-04-24
 last_modified_at: 2026-04-24

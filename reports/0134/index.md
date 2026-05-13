@@ -2,8 +2,8 @@
 title: "Report #0134 - Stolen ETH Traced to NFT Whales and an Investment into undeads.com"
 description: "On-chain investigation tracing 100 ETH stolen from Switchere.com in May 2022 to NFT whales n0b0dy.eth and indifferent.eth, who subsequently invested into undeads.com."
 permalink: /reports/0134/
-canonical_url: https://cryptokarl013.xyz/reports/0134/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134_cover.png
 author: cryptokarl013
 date: 2025-08-28
 last_modified_at: 2026-04-24

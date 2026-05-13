@@ -2,8 +2,8 @@
 title: "Report #0134.3 - 40% of Unlocked $UDS Market Cap Tied to Wallets Connected with n0b0dy.eth and indifferent.eth"
 description: "On-chain analysis shows that about 40% of the unlocked market capitalization of the $UDS token is held in wallets that receive $UDS directly from addresses associated with NFT whales n0b0dy.eth and indifferent.eth."
 permalink: /reports/0134/3-uds-concentration/
-canonical_url: https://cryptokarl013.xyz/reports/0134/3-uds-concentration/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134.3_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/3-uds-concentration/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134.3_cover.png
 author: cryptokarl013
 date: 2025-08-28
 last_modified_at: 2026-04-24

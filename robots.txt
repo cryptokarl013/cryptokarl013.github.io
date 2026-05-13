@@ -13,4 +13,4 @@ User-agent: Bingbot
 Allow: /
 Disallow: /reports/0134/2-legal-entity/
 
-Sitemap: https://cryptokarl013.xyz/sitemap.xml
+Sitemap: https://cryptokarl013.github.io/sitemap.xml

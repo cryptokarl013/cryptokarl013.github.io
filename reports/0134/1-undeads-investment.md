@@ -2,8 +2,8 @@
 title: "Report #0134.1 - NFT Whales n0b0dy.eth and indifferent.eth Invested into undeads.com and Later Obscured the Connection"
 description: "On-chain and public-registry evidence that NFT whales n0b0dy.eth and indifferent.eth were the two listed investors in undeads.com's pre-seed and seed rounds, and that references to the connection were removed after publication."
 permalink: /reports/0134/1-undeads-investment/
-canonical_url: https://cryptokarl013.xyz/reports/0134/1-undeads-investment/
-image: https://cryptokarl013.xyz/assets/reports/0134/report_0134.1_cover.png
+canonical_url: https://cryptokarl013.github.io/reports/0134/1-undeads-investment/
+image: https://cryptokarl013.github.io/assets/reports/0134/report_0134.1_cover.png
 author: cryptokarl013
 date: 2025-08-28
 last_modified_at: 2026-04-24
