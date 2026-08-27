@@ -28,7 +28,6 @@ include:
   - "robots.txt"
 
 exclude:
-  - "yandex_cb54a0eb1e775a8d.html"
   - "report-0134-stolen-ETHs-Leads-to-NFT-Whales-n0b0dy-indifferent-and-investments-into-a-real-company-undeadscom"
 
 defaults:
